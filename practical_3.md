@@ -69,3 +69,44 @@ Patrzymy ile razy występował w referencyjnych tłumaczeniach:
 ```
 
 maksymalnie w innych tłumaczeniach raz. Score: ile proporcjonalnie u nas względem u reszty i normalizujemy po sumie wszystkich ngramów. Trzeba jeszcze dodać
+
+
+
+### 6 i)
+
+Obtained BLEU score: **9.97**
+
+
+
+### 6 j)
+
+**Dot product attention**
+
+\+ Computationally efficient, no need to multiply by whole weight matrix, just dot product of two vectors and optionally softmax
+
+\- Not working if $s$ and $h$ have different scale(magnitude) - one becomes more important than other
+
+\- Cannot learn scaling of attention weights. These two points make it not robust and very dependant on scale of input vectors. Can be still useful in self-attention where query, key and value comes from the same sequence.
+
+**Multiplicative attention**
+
+\+ Can capture complex relations between $h_i$ and $s_t$ than dot product attention by specifically extracting important things out of $h_i$ (by using $W$ feed-forward). 
+
+\+ Allows scaling of attention weights (while dot-product cannot)
+
+\- More expensive computationally than Dot product, but still less than Additive Attention
+
+**Additive Attention**
+
+\+ Most flexible and effective - can capture more complex relations than Multiplicative attention - because we can learn to extract specific information from both $h_i$ and $s_t$
+
+\+ Works great in Encoder-Decoder models, where $h_i$ and $s_t$ have very different modalities and different scale
+
+\- Highest computational cost - we have to feed forward both $h_i$ and $s_t$ 
+
+\- More parameters to learn (more training data needed)
+
+
+
+### 7 a)
+
