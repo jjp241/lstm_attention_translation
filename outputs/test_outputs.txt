@@ -1,0 +1,3270 @@
+Mamy pomnożyć 65 * 1.
+"to jest macierz razy znak <unk> "
+ale to znaczy 65 razy 1.
+I jest dwa sposoby na wykonanie tego.
+Możesz popatrzeć na to jako ilość 65 jednego czasu
+"można popatrzeć na to jako liczbę <unk>
+to będzie 65.
+co to jest.
+"Więc jeśli mamy 3 razy 1, otrzymam 3."
+to jest 5 jeden raz.
+""
+<unk> się, czy <unk> to się <unk> "
+<unk> obiektu jest otwarte, "
+Albo <unk>
+Są to sposoby <unk>
+""
+"Musimy obliczyć granicę przy x dążącym do nieskończoności, z 4x "
+"x do kwadratu minus 5x, to wszystko przez 1 minus 3x kwadrat. "
+"Nie można po prostu podstawić w nieskończoność, a zobaczmy co się dzieje. "
+"to jest po prostu <unk> jeśli chcesz znaleźć granicę przy tym "
+"i zobaczycie, że to dąży do nieskończoności. "
+Ten licznik dąży do nieskończoności
+x dąży do nieskończoności.
+"I jeśli <unk> naprawdę duże liczby w mianowniku "
+<unk> że <unk> "
+nie jest takie proste.
+"3x kwadrat zbliża się do nieskończoności, ale "
+to <unk>
+Więc to będzie równe granicy przy x dążącym do
+do nieskończoności z 4 minus 5 przez x kwadrat minus 3.
+"Cóż, przy x dążącym do 1, 5 podzielone na"
+<unk> się bardzo duże mianownika.
+to będzie 0.
+To będzie równe 0.
+I to samo.
+Tutaj mamy 0.
+Zostaje nam 4 i minus 3.
+Tak więc nie trzeba używać reguły de l'Hospitala.
+dla tego zadania.
+""
+Możemy to zrobić w wszystkich przypadkach.
+"I w każdym z tych przypadkach, w tej kolumnie "
+"są większe niż składowe w tym zbiorze "
+<unk> w tym co mamy pozostałych <unk> "
+aby zrozumieć jak ich działa.
+W jaki sposób <unk> działa po raz pierwszy pierwiastek.
+"Jeśli nie są takie same, potem przejdziemy do drugiej strony, "
+"W tym przypadku 7 równa się 7 więc przesuwamy się dalej. "
+i robimy to w tym samym sposób jak <unk>
+Przejdźmy na lewo
+"To jest sposób, w jaki słowa <unk>
+"Ale używamy tego samego powodu, gdy liczymy sznurki, "
+lub kiedy mamy listę listy liczby lub listę innych wartości.
+""
+""
+"są to te, które sprawiają, że mianownik równa się 0, "
+"i to są sytuacja, w której ta sytuacja będą <unk> "
+<unk> a, b, albo y równa się 0. "
+"Jeśli każda z tych są równe 0, to mamy niezdefiniowana "
+wyrażenie.
+<unk> od 0. "
+równa się 0.
+"Albo można napisać, że jeśli b, a y nie jest "
+"jest równe 0, że żaden z nich może być równe 0. "
+To są różne sposoby <unk> to samo.
+Z tego <unk> pomnóżmy i uprościć
+"Więc kiedy możemy pomnożyć licznik i "
+"Zobaczmy, gdzie możemy uprościć to zrobić."
+"Możemy podzielić 14 przez 2, a 2 przez 2, i mamy 14 "
+podzielone przez 2 to 7 i 2 podzielić przez 2 równa się 1.
+"Możemy podzielić 3 przez 3 i dostać 1, i podzielimy 18 "
+"przez 3, i dostajemy 6. "
+Za każdym razem dzielimy licznik i mianownik
+"przez 2, a mianownik przez 3, tak więc "
+nie zmieniamy tego wyrażenia.
+"Możemy podzielić a kwadrat podzielona przez a, "
+jest równe 1.
+"Mamy x kwadrat podzielona przez x, więc x kwadrat podzielone przez "
+"przez x to x, a x podzielone przez x to po prostu 1, więc to staje się "
+<unk> x przez 1, albo po prostu x. "
+W końcu mamy y przez y do kwadratu.
+<unk>
+"Jeśli podzielimy mianownik przez y, po prostu dostaniemy y, "
+o czym zostajemy?
+<unk> w liczniku, "
+które możemy zignorować.
+To nie zmieni liczbę.
+Mamy 7 razy a razy x.
+"To jest to, co mamy w liczniku. "
+nie może się równać 0.
+"Kiedy patrzymy na to wyrażenie tutaj, "
+"Nie jest nawet jakąkolwiek b, więc jest to trochę "
+równa się 0 tutaj.
+Ale żeby to było to samo.
+"Albo właściwie, jeśli te funkcje <unk> "
+żeby f(x) było równe temu f(x)
+tak.
+<unk> x i <unk>
+"W tym przypadku, nie można <unk> x i <unk> "
+"Aby to być takie same, musisz umieścić tę samą "
+""
+""
+i wektor zdjęcie.
+wybieram ten trójkąt
+Klikam symbol symbolem <unk>
+<unk> <unk> <unk>
+<unk> razy, <unk> tutaj, "
+<unk> może być <unk> lub <unk>
+na projekt.
+<unk> zawierać wektor <unk>
+Za pomocą PPM PPM menu menu <unk>
+w tym <unk>
+<unk> się z tymi <unk>
+aby zacząć w kolejnym filmie
+Mam teraz kilka sposobów na temat kolejnego filmu.
+<unk> nową funkcję, w X6 jest bardzo przydatne. "
+Aby je <unk>
+Używając tej funkcji mogę przedstawić zawartość
+Oto co się robi.
+i <unk> się do <unk>
+I 'm going to przesunąć w następnej projekt.
+""
+""
+gdzie objętość jest funkcją x i y.
+"Teraz spróbujmy dostać <unk>
+funkcją trzech zmiennych
+"Jednym z tym, że jest temperaturę w <unk> "
+trójwymiarowej pokoju.
+gdzie jestem w pokoju
+"Powiedzmy, że to jest funkcja od x, y i z <unk>
+"Ale powiedzmy, że mam 20 <unk>
+środkiem naszego miejsca.
+"Mogę sobie wyobrazić, jak <unk> się od tego dalej "
+"Powiedzmy, że temperatura funkcja.
+"I powiedzmy, że środek pokój jest w <unk> "
+"Powiedzmy, że nasza funkcja odwrotna <unk>
+równa się 10 razy e do minus r kwadrat.
+Dlaczego mówię <unk>
+"Powiedziałem, że to jest funkcja x, y i z."
+i dalej od tego trójkątów.
+"ale wróćmy do tego, co to "
+<unk> przez salę.
+"Tak więc promień od środka, to po prostu będzie"
+r kwadrat to po prostu x kwadrat plus y kwadrat plus z^2
+Więc zapiszmy nasza temperatura funkcja.
+"Więc zapiszmy temperaturę jako funkcja od x, y i z jest"
+równe 10 e do minus x kwadrat plus y kwadrat plus z.
+<unk> co jest dokładnie to co napisałem tutaj. "
+<unk> do kwadratu, po prostu <unk>
+w jakimkolwiek punkcie możemy <unk>
+I to ma sens.
+dostaniesz temperaturę.
+"Nie <unk> się temperatura i <unk>
+nie jest pole wektorowe.
+<unk> tylko temperaturę.
+<unk> z każdą <unk>
+Jak na gradient tej funkcji?
+<unk> w kierunku tej funkcji <unk>
+wzrost
+<unk> mówi nam jak duży wzrost w temperaturę
+<unk>
+Albo można to postrzegać jako prawie
+"Więc zastosujmy to tak, a potem pokażę wam "
+"I 'm going to zmienię niebieski kolor, ponieważ"
+Więc gradient T będzie równy
+pochodna T względem x razy wektor wektor
+plus pochodna cząstkowa <unk>
+funkcją względem y razy wektor jednostkowy w y
+plus pochodna cząstkowa <unk>
+funkcją względem z razy wektor jednostkowy
+w kierunku z.
+Teraz liczymy i <unk>
+pochodnych pochodnych
+"Pamiętaj, jeśli bierzemy pochodną cząstkowa względem x,"
+Zróbmy to.
+Policzmy pochodną tej funkcji.
+Więc minus x kwadrat plus y kwadrat plus z^2
+względem x.
+Więc to będzie minus x kwadrat minus y kwadrat
+minus z kwadrat.
+<unk> to po prostu stałe, więc pochodna
+po prostu 0.
+Więc pochodna jest równe minus 2x.
+Prawda?
+Minus 2x to pochodna minus x kwadrat.
+Minus 2x razy pochodna funkcji zewnętrznej.
+Jaka jest pochodna e do x?
+Pochodna e do x to e do x.
+pochodna stałej stała
+to jest równe 10 e do minus x kwadrat dodać"
+y kwadrat plus z kwadrat.
+I to wszystko razy wektor jednostkowy w kierunku i kierunku.
+Prawda?
+Teraz możemy zrobić to samo dla osi y.
+to względem y?
+Będzie to wyglądać bardzo podobne.
+Pochodna cząstkowa tej funkcji funkcji
+y równa się minus y do kwadratu.
+Więc to jest minus 2y.
+jeszcze raz.
+Więc razy 10 e do minus x kwadrat plus y
+kwadrat plus z kwadrat.
+I to wszystko razy wektor jednostkowy w
+y kierunku j.
+funkcją względem z.
+I to jest po prostu minus 2z razy 10 e do minus x kwadrat
+plus y kwadrat plus z^2 kwadrat.
+To jest tylko reguła łańcuchowa.
+<unk> --&gt; <unk> pochodna cząstkowa <unk> jako <unk>
+I to wszystko razy wektor jednostkowy w k kierunku.
+Możemy to uprościć trochę.
+Możesz mieć minus 2x razy 10.
+Zapiszę to tutaj.
+Więc gradient temperatura funkcji jest równy
+minus 20 e do minus x kwadrat plus y kwadrat
+"Myślę, że możecie to uprościć <unk>
+<unk> łatwo je <unk> ale"
+To również <unk>
+To jest K tutaj.
+będzie wyglądał tak.
+Co by się stało?
+Możemy to zapisać jako gradient funkcji
+"funkcja x, y, i z."
+W każdym punkcie w trzech <unk>
+<unk> "
+"Kiedy mamy w ten sposób, w jakimkolwiek punkcie <unk>
+to daje nam wektorem.
+Prawda?
+"Ponieważ jest to ""i"", j, j, i k <unk>
+"Gdzie wartość są <unk>
+"wtedy kierunek jest podane przez ""i"", (1 i k."
+"Zobaczmy, co wygląda tak. "
+Więc to jest pole wektorowe.
+To jest gradient funkcji
+<unk> je jako <unk>
+"I jak możecie zobaczyć, dlaczego to działa."
+interesujące.
+"Jak się bliżej i bliżej <unk>
+Prawda?
+<unk> porusza się większe i większe i większe i <unk>
+względnie proste.
+Ale intuicja jest zawsze interesująca rzecz.
+do Ciebie.
+"W każdym razie, do zobaczenia w następnym filmie."
+""
+"Kiedy zaczynamy <unk> na świat <unk> "
+I tak naprawdę to jest pierwsza rzeczywiste <unk>
+w jaki sposób ją <unk>
+<unk> <unk> <unk> nie <unk> <unk> <unk> <unk> "
+"Tak więc, nie było to zły rzecz. "
+Więc to jest bardzo silne stwierdzenie.
+<unk> <unk> <unk>
+"ale on mówi, że często <unk> <unk> "
+"I teraz <unk> się w <unk> i kiedy to sprawia, że jest właściwie "
+"A więc, współczesna Kennedy'ego są <unk> się w tych dwóch szkołach "
+"I Bóg gatunek jest taka, że nie masz nieskończenie <unk> "
+<unk> gospodarce. Mamy teraz milionów <unk>
+"Więc mamy te podstawowe <unk> o tym, jak ludzie myślą, że ludzie są decyzje. "
+Albo to uprościć -- zapiszę to
+Można to udowodnić
+"Ale w tym samym czasie, może być trochę <unk> ponieważ "
+"To bardzo ważne, aby je <unk> "
+<unk> to przez miliony osób, więc jest to <unk> "
+<unk> aby dokonać założenia <unk> "
+"I jeszcze raz, to jest bardzo ważne. To jest bardzo ważne, aby dokonać tych modeli modele "
+ale zawsze trzeba <unk> <unk>
+"Więc możecie tak naprawdę <unk> "
+może nawet bez <unk>
+"ale tak naprawdę wydaje mi się, że warto pamiętać "
+"że widzimy w <unk> i mam nadzieję, że będziemy "
+Zobaczycie to wartość
+Ale jest to bardzo ważnym stwierdzenie
+"Ważne jest bardzo ważne, aby zawsze <unk> że "
+"lub wiedzieć, kiedy matematyki jest w tym kierunku. "
+"I jeszcze raz - ważne jest w tył <unk> "
+""
+"Jeśli jesteś zainteresowany <unk> na temat tych klasie, "
+kliknij na wykład jeden. Tak więc dobry
+"Coś jest to, że te wykłady są <unk> "
+i można zrozumieć wykłady w <unk>
+<unk> <unk> po prostu <unk> w <unk> lub na twoim <unk>
+"Teraz najlepszy sposób, aby obejrzeć te wykłady "
+<unk> tydzień w tygodniu. "
+<unk> i <unk> <unk> "
+""
+<unk>
+"To, czego nie <unk> się w pojedynczych <unk> przez <unk>
+"Jest to fakt, że jedna z rzeczy, które się dzieje w czasie "
+""
+Mamy teraz ogólne narzędzia
+W tym filmie zrobię kilka przykładów.
+Zacznijmy od 32 razy osiemnaście.
+"Powiedzmy, że 8 razy 2 jest szesnaście. "
+ponieważ nie zawsze mają tego miejsca do pracy.
+Więc 8 razy 2 jest szesnaście.
+8 razy 3 jest 24.
+24 dodać jeden jest dwadzieścia pięć.
+Więc osiem razy 32 to sześćdziesiąt sześć.
+"co jest naprawdę dziesięć, razy 32. "
+<unk> ją na pomarańczowo."
+Jeden razy dwa to dwa.
+"Więc możecie powiedzieć, hej, pozwólcie, że wstawię dwa w dół "
+"Pamiętaj, to nie jest 1. "
+"To jest dziesięć, więc musimy mieć zero "
+to zapamiętać.
+"Albo mówimy, że 1 razy dwa to dwa, "
+To działa.
+Potem razy trzy.
+<unk> się tego co mieliśmy z <unk>
+Jeden razy trzy to trzy.
+10 dodać osiem to osiemnaście.
+Teraz dodajemy dwie liczby.
+Możesz je dodać.
+6 dodać zero równa się sześć.
+Pięć plus dwa to siedem.
+Dwa plus trzy to pięć.
+Pójdźmy dalej.
+<unk> razy <unk>
+8 razy 9 jest 72.
+A potem mamy 8 razy 9
+"Osiem razy 9 to <unk> ale teraz mamy 7 "
+<unk> plus siedem to <unk>
+W porządku.
+Teraz skończyliśmy.
+"W kolejnym kroku <unk> to 8 razy 99. "
+<unk> zero tutaj.
+8 razy 9 jest 72.
+Następnie 8 razy 9 to siedemdziesiąt siedem.
+Plus siedem to <unk>
+Dwa plus zero to dwa.
+Zmienię kolor.
+Jeden plus siedem to osiem.
+"Osiem dodać 9 jest siedemnaście. "
+Jeden plus siedem to osiem.
+Osiem tysięcy siedem siedem 12.
+Pójdźmy dalej.
+"W porządku, <unk> razy <unk> "
+Więc 8 razy 3 jest 24.
+<unk> się w tym miejscu.
+Więc musimy pamiętać o zero tutaj.
+Nie chcę się <unk>
+7 razy pięć to trzydzieści pięć.
+Plus dwa to <unk>
+4 dodać zero to 4.
+Dwa plus jeden to trzy.
+4 dodać siedem to jedenaście.
+Jeden plus trzy to 4.
+4 tysiące sto <unk>
+"Powiedzmy, że mamy siedem <unk> razy <unk> "
+"W porządku, więc najpierw musimy pomnożyć 8 razy siedem <unk> "
+"I zauważmy, że przejdziemy do góry w <unk> "
+Więc 8 razy sześć jest 48.
+8 razy 9 jest 72.
+Plus cztery to <unk>
+I 8 razy 7 to pięćdziesiąt sześć.
+"Jestem pewien, że pokażę <unk> "
+w jakimś punkcie w tym filmie.
+"W porządku, teraz jesteśmy do kwadratu."
+więc możemy pozbyć się tych <unk>
+Razy to tutaj.
+Pięć razy 6 równa się 100.
+Pięć razy 9 to 45.
+Plus trzy to 48,
+Pięć razy 7 to trzydzieści pięć.
+Plus 4 to trzydzieści trzydzieści dziewięć.
+Teraz jesteśmy gotowi, aby je dodać.
+"Osiem dodać zero to osiem. "
+6 dodać zero równa się sześć.
+3 dodać osiem to jedenaście.
+Jeden plus sześć jest siedem.
+7 dodać dziewięć jest szesnaście.
+A potem jeden plus trzy to 4.
+Tak więc siedem stu <unk> razy <unk> jest <unk> tysięcy
+"I to brzmi w porządku, "
+"niż jedna tysiąc razy <unk> "
+więc mamy coś trochę mniej niż <unk> 1000.
+Więc liczba jest w poprawny sposób <unk>
+Teraz zróbmy jeszcze jeden
+Zróbmy pięć stu
+Razy siedem <unk>
+Ale to jest ten sam proces.
+Będzie to po prostu zacząć
+Zaczynamy z 8 razy pięć dwadzieścia siedem.
+8 razy 3 jest 24.
+Teraz 8 razy 2 jest szesnaście.
+8 razy pięć to 40.
+Plus jeden to <unk>
+Tak więc 8 razy pięćset dwadzieścia pięć to cztery tysiące sto <unk>
+Nie skończyliśmy.
+I pozbywamy się tych kolesi tutaj.
+Dziewięć razy trzy równa się 27.
+Dziewięć razy dwa to osiemnaście.
+I mamy 9 razy pięć to 45.
+"Pozwólcie, że zrobię to pewien, "
+<unk> to trochę.
+Dziewięć razy dwa to osiemnaście.
+9 razy pięć to 45.
+Plus dwa to siedem.
+W końcu musimy pomnożyć 7
+"Teraz mamy do czynienia"
+<unk> 2 zer, "
+7 razy 3 równa się 21.
+<unk> się w tym miejscu.
+7 razy 2 równa się czternaście.
+7 razy pięć to trzydzieści pięć.
+Plus jeden to 36.
+Więc cztery dodać zero plus zero.
+To jest proste.
+To jest 4.
+Osiem plus siedem plus zero.
+To jest piętnaście.
+Jeden plus jeden plus jeden to trzy.
+4 dodać 7 plus sześć.
+To jest <unk>
+4 dodać sześć równa się 10.
+To jest siedemnaście.
+I mamy jeden plus cztery to pięć.
+Pięć plus sześć równa się 11.
+Jeden plus trzy to 4.
+Więc pięć stu 23 razy siedem
+wynosi 4 tysięcy pięćset 54.
+To jest punkt <unk>
+pięćset dwadzieścia pięć razy siedem <unk>
+Proszę bardzo.
+To jest czterysta 17 tysięcy pięćset 54.
+"Ale nie <unk> "
+co jest ważne
+""
+Jak macie? Justin.
+i macie D <unk>
+"że mamy tylko jedno <unk> "
+"Sądzę, że musimy nauczyć się innym <unk>
+I to kolejny sprawdzimy A.
+"I jedna z którą pokażę wam "
+Tak więc czasami zobaczysz wam A-dur
+która jest jednym z największych problemów gdy jesteś <unk>
+Ale w tym momencie zajmiemy się wkrótce
+"Więc to co zamierzam zrobić, to pokażę wam "
+<unk> się przed tym <unk>
+"ale mam nadzieję, że pokażę wam wystarczająco dużo przyczyny, "
+A więc tutaj jesteśmy <unk>
+<unk> i <unk> na <unk>
+"Pierwszą rzeczą, którą <unk>
+Ale my zajmiemy się tym trochę.
+"Tak więc byłoby to miło, żeby było blisko próg "
+ale niestety nie <unk>
+Zaczynamy z tym w środku progu,
+<unk> to jest dlatego musieliśmy opuścić przestrzeń "
+więc mamy tutaj miejsca na drugi palec
+<unk> na czwartym rzucie, drugiej struny. "
+"Teraz zobaczysz, że drugi palec i trzeci palec "
+"są naprawdę blisko drugiej progu, który jest świetne, "
+"Teraz możecie zobaczyć, że nie możemy dostać do drugiej wojny po lewej stronie "
+"ponieważ trzeci palec jest w podobny sposób, "
+"i oznacza, że pierwszy palec jest mile mile od struny. "
+<unk> wygląda jak to <unk>
+. . .
+. . .
+<unk> się z tymi dwoma <unk> "
+i pierwszy palec może być <unk>
+"Aby spróbować i dostać się tak blisko progu, "
+Niektórzy ludzie <unk> się w ten sposób
+<unk> jeśli <unk> się naprawdę <unk>
+Niektórzy ludzie znaleźć to trochę
+1 na trzeciej
+a potem trzeci palec
+"Więc, teraz co robimy, to "
+"Pamiętajcie, że sprawdzimy każdą z <unk> "
+"by upewnić się, że każdy dźwięk brzmi dobrze. "
+To naprawdę ważne.
+"możecie zauważyć, że nie powinniśmy <unk> "
+ze strony
+ponieważ jest to trochę X na górze.
+Tak więc nie będziemy <unk>
+Zaczniemy od <unk>
+. . .
+<unk> sobie możliwe
+. . .
+"Tutaj jest nasz otwarte A struny. Jeżeli jest tu błąd "
+"to oznacza, że twój drugi palec jest zbyt <unk> "
+"Następne Uwaga to dźwięk z drugiej palec "
+czyli na czwartym struny.
+"Nie jest zbyt wiele rzeczy, "
+. . .
+<unk> --&gt; <unk> się <unk> ponieważ twój pierwszy palec jest <unk> "
+. . .
+że ten rodzaj <unk>
+"Teraz jest to tylko dlatego, że palec jest tak daleko od progu "
+<unk> i sprowadzić ją bliżej <unk>
+Nawet
+. . .
+Pierwsze palec nie powinno być żadnego <unk>
+"i upewnić się, że nie jest na <unk> "
+Ponieważ gdy tylko masz na dole na dole
+. . .
+. . .
+. . .
+. . .
+. . .
+jest E
+wielu ludzi mają problemy z E E
+ponieważ trzeci palec tutaj na stronie E
+"To wszystko może być <unk> "
+przyczyną naszego zadania.
+"Więc chcemy upewnić się, "
+"Nie będę <unk> "
+jak są zbyt <unk>
+To zawsze prowadzi do zadania.
+. . .
+I to powinno być ładnie <unk>
+""
+jako 9 i 5 tysięcznych minus 3 i 6.
+"Więc <unk> ułamki dziesiętne, a teraz jesteśmy gotowi, "
+aby odejmować.
+Teraz możemy odejmować.
+Zaczynamy tutaj
+Mamy 5 minus nic.
+<unk> dwie zer, to będzie to samo, co "
+"3 i 600 - co jest równe 6 <unk> "
+"I kiedy spojrzysz na to w ten sposób, powiedzmy, 5 odjąć 0 "
+"Albo możecie powiedzieć, że jeśli nic nie jest "
+<unk> 5 minus nic to 5.
+"Potem mamy 0 odjąć 0, czyli 0. "
+A potem mamy 0 odjąć 6.
+I nie można odjąć 6 od 0.
+"Musimy więc otrzymać coś w tym miejscu tutaj, "
+<unk> 1 od 9, więc zróbmy to. "
+"Więc weźmy 1 od 9, więc staje się 8. "
+Musimy zrobić coś z tym samym 1.
+"Teraz pamiętajmy, że jest to równe 10 <unk> "
+To jest dziesiątki.
+Więc to będzie 10.
+<unk> to <unk> i <unk> 10 od "
+w lewo.
+Więc mamy 10 minus 6.
+Zmienię kolor.
+10 odjąć 6 równa się 4.
+"Mamy ten przecinek tutaj, a potem mamy 8 "
+minus 3 równa się 5.
+""
+geometria,
+"Ponieważ jest to miejsce, to będzie to samo, "
+"Ale nie tylko dlatego, "
+<unk> się <unk> jak pieniądze, "
+<unk> "
+i zmiana w świecie
+jest <unk> teorii,
+Chcemy podnieść liczbę tematów
+Przez <unk> swoje zasobów
+Bardzo dziękuję.
+""
+energię.
+i tak dalej.
+""
+To jest przykład tutaj
+"powiedzmy, że rząd jest <unk> "
+<unk> to <unk>
+i <unk>
+żebyście wiedzieli, że to jest <unk>
+"więc w tym punkcie, USA rządu musi dać ci <unk> "
+Zastanówmy się nad tym
+Wyciągnijmy kalkulator
+pieniędzy na rząd
+albo inaczej
+"Więc możecie sobie wyobrazić, że nagle ludzie chcą kupić ten rząd, "
+osoba <unk>
+otrzymamy kalkulatora.
+I robię to po prostu
+"Kiedy cena rosną,"
+"To jest to, co ludzie mówią o tym, "
+<unk> ceny idą w górę, jeśli ceny wzrośnie "
+""
+<unk> się, że się <unk> "
+<unk> się w ten sposób <unk> "
+"I na drugiej stronie rzeczy, "
+musisz <unk> <unk>
+Nigdy nie w codziennym okresie,
+na <unk> bez <unk>
+Wygląda jak coś zawsze się <unk>
+<unk> aż do wczesnego <unk> "
+"więc przynajmniej 2000 lat, "
+"I jeśli chcecie je <unk> "
+musisz zastosować jakiś typ siły
+"I jeszcze raz, to jest <unk> <unk> "
+<unk> ludzkiego doświadczenia, "
+"to jest to, co <unk> naszą życie. "
+ponieważ to jest około "Zasada dynamiki Newtona
+To jest <unk>
+<unk> pierwsze Law <unk> "
+większość z tego jak rzeczywiście działa.
+może to działa w inny sposób.
+"Być może obiekty mają <unk> aby utrzymać ich prędkość ich prędkością "
+Więc <unk> przeciwne do myślenia.
+"Jeśli chcesz trzymać się <unk> "
+"Te ludzie mówią "
+"i jedyny sposób, aby je <unk> "
+więc ich prędkość lub w kierunku
+<unk> przez to, "
+To wydaje się <unk>
+z ich <unk> siły
+"Więc jeśli uważasz, że rozumiesz to samo "
+"I w tym szczególnym przykładzie, "
+"Więc jeśli uważasz, że rozumiesz to samo "
+"ponieważ powiedzieli, "
+<unk> <unk> "
+może być podobny sposób.
+i robimy to w kosmosie,
+<unk> w codziennym życiu, "
+zastosuję go do tego.
+"to wszystko <unk> "
+to jest siła tarcia
+będziesz w stanie utrzymać prędkości.
+musisz zastosować jeszcze więcej siły w kierunku zajęć w kierunku
+""
+"I jedna z sposobów na <unk> to oznacza, że ceny w 2010 mogą być w stanie patrzeć jak na 100 "
+Nie wiemy co to jest.
+I teraz możemy znaleźć rzeczywiste <unk>
+i pomnożyć obie strony przez rzeczywiste <unk>
+To jest po prostu <unk>
+i <unk> nam <unk>
+""
+kontrola
+Nowa <unk> <unk>
+W październiku portalu Haas Haas w październiku roku."
+"Aby użytkownicy dostęp do każdego kontroli pieniądza w tym trybie <unk> "
+Przejdźmy na ekranie, w różnych <unk>
+Poniżej wskaźnik przesunięcia są pracy zero przesunięcia
+"Na dole, mamy przycisk informacji, "
+<unk> na dole, to jest dane dane <unk> "
+A moje pierwszy narzędzie jest
+Obie przesunięcie przesunięcie pierwszych tych samych
+<unk> są dostępne
+kontroli spadnie.
+"No cóż, mam moje przesunięcia zbiór, więc muszę go <unk> "
+<unk> go <unk>
+I naciśnij [pisać / ENTER] klucza
+I w dolnej menu menu jest <unk>
+Tutaj mamy program listę
+I ten program jest dostępne dla <unk>
+jeżeli są aktywowane na tej maszyny
+"W środku ekranie, to przesunięcie okna "
+Nie muszę wchodzić na zmianę przesunięcie
+"Na dole, mamy przycisk informacji, które mamy wrzeciona <unk> "
+zmienna zmiennej
+"Jak widzicie, że wyglądają na koncie portalu Haas "
+"W rzeczywistości, wykonywania operacji maszyny "
+i jak <unk> funkcje na maszyny nie <unk>
+<unk> sobie, że zmiany może być trudne. "
+"i uświadomić sobie, że najbardziej <unk> maszyny w świecie po prostu <unk> "
+Dzięki <unk> <unk>
+""
+<unk> ale można sobie wyobrazić, gdzie "
+chcesz obliczyć silnia w różnych miejscach
+lub w różnych różnych programów
+silnia różnych razy.
+I nie chcesz tego <unk>
+"W tym filmie, "
+i możemy wykorzystać tę funkcję
+Tak więc zasadniczo ta funkcja będzie
+"wszystkie kod tutaj, "
+w jednym miejscu.
+<unk> to <unk>
+Nie muszę tego <unk>
+Więc zdefiniuję funkcję
+i w <unk>
+więc to <unk> słowo
+<unk> się o tym problemem.
+"Więc zdefiniuję funkcję, "
+"To jest dobry pomysł, "
+i ktoś kto <unk>
+albo ta funkcja jest <unk>
+Tak więc na pewno to <unk>
+"Moja funkcja nazywa się"
+muszą powiedzieć silnia
+to co liczba <unk>
+i opowiem je w drugim
+"ale możecie mieć nadzieję, że im więcej "
+<unk> się z tymi <unk>
+i zamierzam wrócić z powrotem
+Zapiszę to jako komentarz
+"I czasami zobaczysz słowo <unk>
+"Kiedy <unk> definicja funkcji, "
+mówię o tym tutaj
+"że to jest powód, "
+Nie chodzi o dowolną liczbę.
+Zdefiniujmy to.
+Więc użyjemy tego samego kodu
+<unk> je i <unk> "
+"Pozwólcie, że skopiuję to i przeszłości <unk> "
+<unk> to
+<unk> to tutaj, "
+<unk> część co, nie wie, jak <unk> rzeczy. "
+To jest część tej funkcji definicja
+"Jeden, dwa, trzy, cztery. "
+A to jest kolejne 4.
+"Jeden, dwa, trzy, cztery. "
+To jest część <unk>
+"Jeden, dwa, trzy, cztery. "
+"I pomyślmy o tym co mamy do czynienia"
+"Będzie <unk> jakaś liczba, "
+Będziemy rozmawiać o <unk>
+ale ta zmienna jest tylko <unk>
+w zależności od tego silnia
+jest wewnątrz tego tutaj.
+więc zajmiemy się bardziej <unk> w przyszłości.
+"A potem z tym samym, <unk> "
+"to jest tylko <unk> "
+"Więc po <unk> <unk> "
+"I zamiast go <unk> "
+<unk> go do programu programu
+i w następnym filmie pokażę
+"Tak więc to jest zasadniczo dokładnie to samo kod <unk>
+mamy funkcję <unk>
+<unk> zaczynamy od 1, "
+"ale wtedy ""i"" będzie równe 1. "
+"""i"" zaczyna od zero, "
+"wtedy ""i"" jest 2, więc będzie to 1 x 1, "
+"Jeżeli ""i"" jest równe 1 "
+więc będzie to 2.
+<unk> to w ostatnim filmie.
+"Więc jeśli chcemy mieć to samo jak przed <unk>
+ale teraz używamy tej funkcji.
+<unk> możemy powiedzieć, "
+ale w naszym głównym głównym głównym
+znaleźliśmy naszą funkcję
+i teraz możemy powiedzieć:
+I to co zamierzam zrobić
+to zdefiniuję inną zmienną
+i teraz to będzie ciekawe.
+Będę nazywał tę funkcję tutaj
+więc to będzie równe
+silnia tego zmiennej tutaj.
+<unk>
+ale to są tylko zmienną <unk>
+że jestem w ten sposób.
+tak naprawdę jest wewnątrz tych zmiennych
+"Teraz, wiecie już, o czym chodzi. "
+"Zobaczmy, co się dzieje. "
+Więc przynajmniej nic nie <unk>
+znowu
+więc chcę wyczyścić program
+ale tutaj zrobiliśmy to
+więc określa tę funkcję to idzie tutaj
+i to co robimy tutaj.
+"Po <unk> jakąś liczbę tutaj, "
+Spróbujmy z liczbą 3.
+które nie ma żadnego sensu
+Narysuję to.
+że nie <unk>
+Narysuję to.
+Więc 3.
+I <unk> mi odpowiedź.
+"jest zakładając, że ta definicja został <unk> "
+gdybym miał inny program
+i teraz powinieneś <unk>
+"Ponieważ możemy <unk> "
+"Ponieważ zdefiniowałem to funkcja silnia, "
+To jest 24.
+"Mogę powiedzieć, że silnia z 5 - silnia z 3. "
+"jest to, że nie muszę <unk> "
+"Więc silnia z 2, mogę to zrobić, "
+"Mogę użyć tego jako funkcję, "
+<unk> nie muszę wiedzieć, "
+co się dzieje.
+"Ale powiedzmy, że <unk> się <unk>
+zapisania tego tutaj.
+<unk> jak twoje program
+Więc może to jest szybszy sposób
+lub prostszy sposób tego działania.
+Następnie moglibyście je zastąpić później
+jak tak naprawdę działa
+to będzie działać dla tego programu
+i to będzie po prostu <unk>
+""
+W jaki sposób powinniśmy zmierzyć informacje
+jak mamy dziś o <unk>
+Jednym z <unk> prędkości
+które możemy myśleć jako <unk> <unk>
+<unk> <unk> <unk>
+jak ilość energii <unk>
+<unk> <unk> i <unk>
+<unk> znacznie znacznie szybciej niż jakimkolwiek <unk>
+Jeden świetny przykład
+"Mamy więc <unk> które "
+"Zauważcie, że na najniższa początek, to <unk>
+<unk> albo <unk>
+<unk> <unk> <unk> w firmie podzielona za pomocą <unk> "
+"No cóż, <unk> Michaela <unk> nie był <unk>
+<unk> <unk> <unk>
+"Jeśli jeden wysyła kropki zbyt szybko przez <unk> <unk>
+To ich <unk>
+kiedy już <unk>
+<unk> się 0 do potęgi 1.
+w jaki sposób <unk> się z tymi dwoma <unk>
+I to jest ten sam problem.
+i się <unk>
+To nazywa się <unk> <unk>
+"Pamiętaj, <unk>
+która jest dla danego okresu czasu.
+z jednego stanu do innego.
+Więc <unk> <unk>
+jest to liczba <unk>
+""
+"Więc to jest jasne, że jeśli <unk> wokół kapitał będzie przyjaciół i rodzina "
+więc to był rodzaj <unk>
+""
+<unk> firmy firmy firmy firmy został <unk> "
+""
+"ale nadal mamy <unk> język maszyny maszyny do typu "
+<unk> naprawdę <unk> dwa i dwa razem i mówi: "
+<unk> że <unk> wszystkich <unk> <unk> "
+""
+"W ostatnim filmie, obliczyliśmy jaka jest wartość <unk>
+<unk> jeśli je <unk>
+"Jeśli chcecie wiedzieć, ile 100$ jest za rok <unk>
+I pokażę wam odpowiedź.
+<unk> w sekundę.
+"Ale jeśli założymy, że bez ryzyka wynosi 5%, to"
+<unk> wartość 100$ dzisiaj, to było po prostu <unk>
+kwadrat, prawda?"
+Nie chcę wchodzić zbyt dużo miejsca.
+Mógłbym to być chyba <unk>
+trochę większy.
+"To było wartość <unk> 10%. plus 50$ "
+"I to jest to, co powinno być warte <unk>
+rabat o <unk>
+To jest mój notacji.
+to wciąż jest warte 100$.
+Możesz to nawet zrobić jako -- zrobię to w bardziej
+100$ dzisiaj.
+Jest 100$.
+A jaka jest średnia dwa lata
+To jest ciekawe.
+aby dzielić przez mniejszą liczbę.
+Ciekawe.
+"To było równe - robię to w pomarańczowym miejscu - "
+Powinienem go nazwać <unk>
+Tak więc można nazwać to rok na rok.
+To jest rok.
+I to jest rok.
+<unk> poziom wzrośnie do 3%.
+Fascynujące.
+Teraz zobaczmy co się dzieje w odpowiedzi numer trzy.
+<unk> numer 3 razy wysokość <unk>
+to jest tylko warta 20$.
+Jest kilka ciekawych rzeczy.
+I to jest naprawdę dobry czas w <unk>
+"A teraz odpowiedź numer 2 jest <unk>
+"liczba 3, po prostu <unk>
+"Tak więc prawie - odpowiedź jest najlepszym <unk>
+5% stopa dyskonta.
+I jest coś innego interesującego
+<unk> to było dwa lata - prawda?"
+Tylko kilka lat <unk>
+"I niektórzy z jego <unk> jest <unk>
+bez <unk>
+A potem niektóre z nich jest dzisiaj.
+<unk> <unk>
+Ale będzie to korzyść z mniej.
+"W następnym filmie zobaczymy, co się stanie, kiedy"
+mamy różne stopa procentowa
+różnych ilości czasu.
+""
+i <unk> się trochę <unk>
+"Tak, jeden pytanie, które uczniowie dużo gdy zaczną <unk> "
+"Tak, tak. "
+"To jest interesujące, dlatego nie <unk> ludziom o tym chwilę. "
+"Powodem dla którego robimy to jest to, że nie wiemy czym x"
+A więc użyjemy tego w jakiś sposób.
+Ale nie musi być literą X.
+"Ale dopóki nie musisz wiedzieć, potrzebujesz symbolu jakakolwiek symbol <unk> "
+"Ale jeśli to <unk> nie było <unk> "
+"Nie byłoby to coś, czego nie <unk>
+"To jest jedna powód dla którego użyję liter "
+i gdzie liczby nie było pomocne.
+<unk> jest kiedy <unk> niektóre z liczb.
+Mógłbym to zrobić - mogę powiedzieć -
+"kiedy dajecie mi przez 3, otrzymam 4. "
+"I mogę powiedzieć, że jeśli dacie mi 5, "
+i mogą poruszać się w nieskończoność.
+I mogę trzymać ten facet i w nieskończoność.
+"Być może możecie dać mi dowolną liczbę liczby, i mogę powiedzieć, że to robię. "
+Ale to oczywiście skończyło mi się trochę miejsca.
+Możemy to zrobić znacznie bardziej <unk>
+"Być może to da nam powiedzieć, że nazwiemy X i tego co nazywam Y. "
+"A więc mówię, że cokolwiek da mi je <unk> "
+I to właśnie zamierzam wrócić do Ciebie.
+"A więc teraz, to bardzo proste równanie tutaj, "
+Możesz opisać nieskończoną liczbę relacji pomiędzy X
+i co <unk> <unk>
+""
+i widzieliśmy to całkiem proste.
+Musisz zrobić wszystkie tabliczkę mnożenia
+"Spróbujmy zrozumieć, dlaczego to działa. "
+<unk> się tak.
+i wtedy spróbuję to wyjaśnić co zrobiliśmy w tym czasie
+Po prostu robię to co robiliśmy w poprzednim filmie.
+Po prostu.
+Teraz sposobem myślenia o tym
+są każdą z tych <unk>
+"Więc na przykład ten przekątną tutaj, to jest jedynek "
+to jest dziesiątek.
+Zrobię to tutaj różowe kolor
+"I w końcu mamy ten mały <unk> "
+"Kiedy pomnożymy jedno cyfra razy inna cyfra "
+<unk> się, że <unk> ją w <unk> "
+lub w tym miejscu.
+I zobaczycie co mam na myśli.
+Więc mamy 7 razy 4.
+"Wiemy, że 7 razy 4 to 28. "
+Po prostu napisałem 2 i 8 tylko tak.
+Ale co nam <unk>
+to jest 7 w 27.
+"Ale to cztery, jest 4 w 48. "
+"Więc to nie tylko <unk> to jest naprawdę 40. "
+To cztery tutaj reprezentuje 40.
+Więc tutaj nie mamy 7 razy 4.
+Mnożymy 7 razy 40.
+"I 7 razy 40 nie jest po prostu 11, <unk> "
+"Możemy powiedzieć, że to jest dwa setki plus osiem dziesiątek. "
+"Mówiłem już, że to było dziesiątek. "
+To znaczy osiem dziesiątek.
+7 razy 12.
+<unk> dwa na setki diagonali.
+I osiem dziesiątek.
+To jest dwa osiem tutaj
+Pójdźmy dalej.
+Kiedy pomnożę dwa razy 4.
+"Mógłbyś powiedzieć, że dwa razy cztery, to osiem. "
+Ale co to robię.
+To jest dwa w 27.
+Więc 20 razy 40 równa się tylko osiem z dwóch zer.
+Co zrobiliśmy?
+<unk> dwa razy 4 i powiedzieliśmy osiem razy 4 to osiem. "
+<unk> zero i 8.
+Ale zauważcie, gdzie napisałem ósemkę.
+<unk> 8 w liczbie diagonali.
+Narysuję to innym kolorem.
+<unk> to w jednym przecinku.
+"nawet jeśli to wyglądało jak pomnożyliśmy dwa razy 4 i powiedzieć, że "
+"Pamiętaj, to jest setki km, "
+to wszystko tutaj.
+I możemy kontynuować.
+Kiedy pomnożysz 7 razy osiem.
+"To jest osiem w <unk> więc to tylko zwykłe ósemkę. "
+7 razy 8 to pięćdziesiąt sześć.
+"I jeśli pomnożysz dwa razy 8, "
+"To znaczy, że to jest po prostu 16 razy <unk> "
+To jest 20 razy osiem.
+25 razy 8 równa się 100
+I nie mamy nic w miejscu w miejscu
+"Następnie, teraz to zrobiliśmy z wszystkimi <unk> "
+"i jeśli coś idzie przez następne miejsce, "
+"Więc sześć w miejscu jedności to jest po prostu 6. "
+Następnie przejdziemy do dziesiątek.
+Osiem plus pięć to trzynaście.
+"Ale zauważmy, że jesteśmy w miejscu dziesiątek. "
+<unk> tutaj tutaj, jeśli można zobaczyć, w miejscu dziesiątek. "
+Teraz dodajemy wszystkie <unk>
+Albo co to jest?
+I teraz masz tylko jeden tysiące na naszej tysięcy diagonali.
+To samo <unk> dotyczy bardziej <unk>
+Możemy użyć naszych miejscach.
+To było miejsce jedności w tym miejscu.
+I to ma sens.
+6 dziesiątek.
+To jest dziesiątek.
+Następnie mamy sześć dziesiątek.
+"to jest to samo, co siedem setki plus osiem dziesiątek, plus siedem po prostu siedem jedynek. "
+Możesz kontynuować.
+"To tutaj, to jest tysiące "
+To jest 10 tysięcy
+Napiszę to tak.
+To jest 100 tysięcy <unk>
+I to było na <unk>
+"Tak więc zrobiliśmy wszystkie tabliczkę mnożenia w raz, "
+i wliczane do tego miejsca w oparciu o jakie te liczby.
+"Ta składowa tutaj, "
+A cztery stu razy 80 równa się 3 i trzy zer.
+Równa się 32 1000.
+To jest tysiące diagonali.
+"Więc mówimy, że jest to dwa tysiące i trzy 10 tysięcy "
+Więc trzy 10 tysięcy i dwóch tysięcy
+To jest 32 1000.
+"Ale mam nadzieję, że z tym video rozumiesz, że wszystko to jest"
+"I pozwala żebyście <unk> tabliczkę mnożenia "
+""
+"Jednym z <unk> <unk> jest fakt, że wszyscy o tym samym "
+<unk> w tym samym częstotliwości <unk> <unk> <unk> <unk> "
+<unk> to pierwszy przykład. "
+<unk> Na przykład jak dużo dystrybucji <unk> "
+"Następnie, powiem wam, że powinniście przemnożyć na czynniki "
+<unk> <unk> z obu <unk>
+I to było <unk> w wczesnych latach <unk>
+"Ale żeby to zrozumieć pytanie, będziemy musieli być trochę "
+<unk> <unk> zajmiemy się bardzo mała "
+<unk> <unk> <unk> tak naprawdę naprawdę logiczne "
+<unk> kanał <unk> jeśli te liczby liczby zero i jeden. "
+"Na przykład w naszym przypadku mamy a, po prostu <unk> "
+"Ale ogólnie, mamy więcej niż jeden wyraz w mianowniku "
+"macierzy z tym <unk> na górnej części macierzy wektora <unk> "
+"Nie jest to tylko funkcja od własnych potęgi, ale również funkcja z pozostałych władzy. "
+"funkcja całego wektora <unk> Teraz, sekundę, czym są stałe "
+"I jeśli mamy więcej niż 1, które jest <unk> "
+""
+"I jeśli nie, będą się <unk> nas i "
+to jest ich <unk>
+"Więc jeśli to jest jeden kanał -- zobaczmy czy to jest <unk>
+jest w przodu.
+Tak więc to byłby pierwszy przykład.
+<unk> się w tym kierunku.
+"Więc zamiast <unk> je, pozwólcie, że skopiuję je i wkleję. "
+To jest drugi przykład.
+A trzeci przykład.
+Zrobię jeszcze jeden.
+O to dobry
+<unk> więc ten koleś -- to widzi się z powrotem "
+tego równania.
+I może też zobaczyć z powrotem w tym pamięci.
+"Zobaczmy, czy uda mi się to narysować. "
+Kolejny koleś jest <unk>
+Kolejny elektron <unk>
+Jesteśmy w tym kierunku.
+W ten sposób ten koleś tutaj może zobaczyć
+Ten facet mogę zobaczyć dwie cząsteczki
+Ten facet może zobaczyć jeden facet przed nim.
+"To nawet narysuję ładnie <unk> "
+<unk> <unk>
+Albo to będzie zielone.
+<unk> więc albo <unk> <unk>
+"I <unk> będzie zaprojektowanymi w taki sposób, "
+w pamięci.
+Może być <unk> <unk>
+na zielono.
+Nie wiem.
+że zaczynają się z <unk>
+"To jest pierwszy koleś tutaj, drugi koleś -- drugi koleś -- "
+<unk> może tylko powiedzieć <unk>
+To będzie dokładnie tutaj.
+<unk> może być <unk> inne niż fakt, że "
+<unk> jego <unk> jest <unk>
+"I w którym nie będą <unk> "
+I to także może <unk>
+"Więc mówią, że będziemy <unk> "
+jak się przydatne.
+<unk> to na następne 24 godziny, "
+Zapomniałem wam to
+<unk> się na światło.
+"Oczywiście nie może być na swoim <unk> ale "
+nie można tego <unk>
+I będą dalej aż do pierwszej <unk>
+<unk> <unk> <unk> <unk> "
+Więc jeśli chcecie go <unk>
+"I właściwie zanim <unk> ją <unk> "
+typu informacje.
+z strony oczu albo coś takiego.
+"Musisz to zupełnie zupełnie oparte na to, co słyszycie i "
+"I jeśli chcesz się zapauzować teraz <unk> się z <unk> "
+nie <unk>
+Łatwo myśleć o wiele rozwiązań
+"Ale jest rzeczywiście rozwiązanie, które <unk> "
+"To jest rozwiązanie, które trzeba <unk> "
+"I do reszty tego filmu będę <unk> "
+I możecie to być <unk>
+To będzie te dziewięć ludzi.
+Nie ma informacje.
+Mamy 50% szans na niebiesko.
+Bez dowolnego innego pieniędzy.
+że na górze naszego głowy jest
+Więc nasza oczekiwana ilość ludzi
+9 i 1/2.
+<unk>
+"Jest kilka rzeczy, które są bardziej "
+To może być <unk>
+"A potem w tym momencie są bardziej <unk> "
+"I jest on albo <unk> lub <unk> "
+"Ale przynajmniej był <unk> "
+do 7 lub 8.
+Potem jest inny przykład.
+Jest ich mnóstwo.
+mają dużo czasu.
+A więc tutaj jest rzeczywiste rozwiązanie.
+nie chcesz rozwiązania.
+Więc mamy kilka ludzi.
+"Jeden, dwa, trzy, cztery, pięć, sześć, siedem, "
+<unk> 9, 10 ludzi. "
+To jest inna rzecz.
+"Więc ten koleś w prawo, jest on <unk> "
+Prawda?
+A więc to jest prawdą od tyłu
+<unk> na zielono, "
+Policzmy zielono.
+<unk> że liczba "
+zielonego <unk>
+"I oczywiście, nie wiem jaka jest jego <unk> koloru "
+<unk> cóż, ma <unk> "
+<unk> te informacje do reszty "
+"I ten koleś -- który obok następnego kolesia, który obok kolejnego "
+To jest ciekawe.
+"to jest również nieparzystą liczbę <unk> <unk> to oznacza, "
+Prawda?
+Rozwiążmy teraz inne sytuację.
+"Co oznacza, że <unk> liczby zielone "
+I to będzie prawda.
+ponieważ nie jest to jedna z <unk> <unk>
+system <unk>
+<unk> do przodu - prawda? "
+<unk> mówi, że musi być jednym z <unk> <unk> więc "
+w dół i jeden z tych kolesi za każdym razem
+się zmieniać.
+"Właściwie, zrobię przykład ponieważ "
+jest prawdopodobnie prostszy
+"Więc mamy jeden, - właściwie, pozwólcie, że zrobię to w neutralnym "
+więc nie <unk> czasu.
+Ile to jest?
+"Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, 9, 10. "
+Więc przechodzimy do pierwszego wiersza.
+"Jeden, dwa, trzy, cztery, pięć. "
+To są nieparzyste.
+To jest system <unk>
+<unk> przed nim.
+<unk>
+Prawda?
+Więc <unk>
+"Więc ten facet wie, musi być tylko trzy zielone "
+I po prostu cały czas cały czas
+że każdy odpowiedzi
+I <unk>
+"W każdym razie, mam nadzieję, że znalazłem tę <unk> "
+<unk> ponieważ <unk> sobie, że "
+trochę zagmatwane.
+"Ale mam nadzieję, że ten przykład wyjaśnia "
+trochę lepiej.
+na niebiesko.
+""
+""
+ale nazywa się <unk> <unk> <unk>
+"nie będzie to interesujące, ale jest to <unk>
+"To, co robią to <unk> "
+"I zobaczmy, jest to rodzaj <unk> <unk> "
+"I powiedzmy, że <unk> "
+żadne z tego jest istotne w tym <unk>
+"To jest <unk> "
+"I co oni mają 100 doskonała <unk> "
+pomalowane na niebiesko.
+""
+Przynajmniej jeden z was ma swoje <unk>
+<unk> <unk> że jeśli jesteś "
+Ale nie znamy tego co kolor
+Wszystkie mają różne kolor <unk>
+Albo nie wiem.
+"Ale wszyscy mówią, że "
+na niebiesko.
+będą miały czoło pomalowane na niebiesko.
+"że twoje czoło jest niebieskie, musisz opuścić sali <unk> "
+""
+Są one poza <unk>
+"I potem po to, wszystko wchodzą w pokoju. "
+wszystkie wyglądają na siebie.
+"Nie można patrzeć na każdą oczy i spróbować zobaczyć, "
+do odbicie.
+Nie tak.
+Wszystkie mogą spojrzeć na siebie.
+"Więc na przykład powiedzmy, że "
+to jest właśnie tutaj.
+"Kiedy światło <unk> się na pierwszym czasie, "
+może być w stanie patrzeć na wszystkie inne ludzie w pokoju.
+"Mogę zobaczyć, będzie to oczywiste, że jeśli każdy "
+ma niebieskie czoło.
+"Być może ten koleś ma jeden, ten facet nie ma. "
+"Nie wiem, prawda? "
+Nie mogę zobaczyć swojego czoła.
+"i <unk> sobie, że macie niebieskie czoło."
+"Na przykład, powiedzmy, że idę do sali, "
+I co będą one <unk>
+"I potem, jeśli wiem, że mam niebieskie czoło podczas "
+"I wtedy kiedy <unk> się światło. "
+Więc tu nie będzie nic <unk>
+"Powiedzmy, że mamy 100 <unk> to będzie 99 "
+<unk> w pokoju.
+Prawda?
+Więc wszyscy w pokoju.
+""
+"Więc moje pytanie do - pamiętajmy, że mam każdą z tych "
+"że masz niebieskie czoła, niebieskie czoło, jak tylko masz niebieskie "
+<unk> musisz <unk> <unk> "
+"Teraz moje pytanie jest, powiedzmy, że "
+Prawda?
+<unk> pokoju.
+się stanie?
+To jest właśnie tutaj.
+Nie wydaje mi się
+I może jakiś inny facet zostanie nam <unk>
+Nie wiem.
+I wtedy pokażę ten sam 99 zadania.
+dopóki coś się dzieje.
+I moje pytanie do was co się stanie?
+Dlaczego?
+""
+"Pozwólcie, że powiem to w ten sposób. "
+To jest zadanie.
+Powinniście być w stanie rozwiązać.
+"Więc wiecie, to nie jest tylko dla zabawy. "
+""
+<unk> zadania mogą zastosować do siebie "
+"Więc moje nazwa, a pamiętajmy, że to "
+mniejszą liczbę.
+""
+""
+"Więc powiedzmy, że <unk> się od <unk> "
+"i to jest twój pierwszy dzień, aby uzyskać zajęcia "
+i znaleźć nowy kolor papieru nie <unk>
+"I <unk> "
+<unk> <unk> <unk> <unk> do <unk> "
+i bardziej <unk>
+Może mógłbyś je <unk>
+"To <unk> i <unk> do tych trzech trójkątów, "
+<unk> naprawdę wystarczająco <unk> aby przynajmniej <unk> "
+"Wszystko wydaje się to samo, jak wcześniej, "
+<unk> się znowu znowu i znowu i znowu i ponownie i ponownie
+<unk> mój papieru <unk>
+<unk> w ponownie, kształt papieru "
+"i <unk> że "
+z <unk> <unk>
+"O, to jest nasz proces na <unk> żółto, "
+"Tak, jeden wraca do niebieskie, "
+<unk> z różowe na pomarańczowo."
+i chce się dowiedzieć jak to zrobić.
+<unk> <unk> <unk> "
+""
+"To jest naprawdę <unk> <unk> <unk> co mam nadzieję, że to jest <unk> "
+<unk> może wydawać się wiele <unk> ale od mojego perspektywy nie <unk> "
+zaczynają się poruszać w swoim życiu <unk>
+"I jak wiele z was <unk> "
+albo cokolwiek innego.
+"I mówię, że <unk> pieniądze był <unk> "
+"Myślę, że jeśli <unk> to opowieści, w tył <unk> "
+którzy byli nawet <unk>
+"nie <unk> tego co <unk> ale <unk> inne ludzie - "
+"Chcę podkreślić, że to jest coś co możecie zrobić w swoim <unk>
+Możesz sprawdzić inne pozycje <unk>
+"I kiedy to zrobić, wszystkie te rzeczy zaczną <unk> do Wszechświecie. "
+<unk> w jakiś sposób, aby ich życie. "
+jest <unk> <unk>
+"że będziesz <unk> się o bardzo <unk> pytania "
+Wasze szansę na <unk>
+"to widzimy, że wszystkie te <unk> <unk> i jak dużo zmian "
+"I na początku roku, w 2008, miałem - kiedy <unk> ramię się w 2008, "
+<unk> <unk> który <unk> <unk> <unk> <unk>
+<unk>
+"To idzie poza tym, co możecie <unk>
+jak <unk> się <unk>
+Jestem kilka miesięcy <unk> niż większość z <unk>
+"I do tego naprawdę <unk> się <unk> - i jestem szczęśliwy. "
+"nie znasz tego, co mi <unk> się z moim <unk> "
+"I to jest wspaniałe. I jedna rzecz, którą chcę <unk> "
+Mamy 100 milionów gwiazd w Galaktyce - w naszej Galaktyce
+<unk> 15 lat z przodu i mam nadzieję, że piętnaście dni z <unk> "
+"I po to, że zaczynamy <unk> na swoje życie. "
+<unk> <unk> <unk> <unk> "
+<unk> <unk> <unk>
+<unk> bardziej <unk> szansę na <unk> "
+Dziękuję.
+""
+"Jedną z ciekawych pytań, to dlaczego to <unk>
+"Mam nadzieję, że rozumiesz, co robi się <unk> "
+"W ciągu 20 lat, jeśli chcecie wiedzieć jak się <unk> "
+"Teraz wiemy, że w jaki sposób zbudować inżynierii i ten zajęcia jest w tym miejscu. "
+"ale zanim się <unk> zobaczmy jak <unk> "
+"i zobaczymy, co teraz wiemy, co"
+""
+Witam ponownie.
+"Teraz mamy nadzieję, że mamy trochę intuicji, "
+"to, czego granica granicę funkcji "
+zróbmy kilka zadań.
+Niektórzy z nich można zobaczyć na swoich testów
+"Więc powiedzmy, jaka jest równe? "
+powiedzmy minus 1.
+To jest 2x plus 2 przez x plus 1.
+"Pierwszą rzeczą, którą zawsze <unk> jest "
+co się stanie jeśli <unk> x do tego <unk>
+Co się stanie?
+"To co 2x plus 2 kiedy x równa się minus 1? "
+2 razy -1.
+<unk> jaka jest mianownik?
+Minus 1 plus 1.
+Z 0.
+A teraz wiemy ile to 0 przez 0
+Nie.
+"To jest określona, prawda? "
+że granica nie może być równe
+"jest równe x do potęgi liczby <unk> "
+znaleźć granicę z powodu <unk> odpowiedź.
+"Więc sprawdźmy, czy używając granicy. "
+narysuję wykres.
+"I myślę, że to da wam intuicję "
+co robimy.
+"Więc jeśli rysuję wykres, to są osie "
+"Właściwie, zrobię to <unk> i <unk> "
+w tym samym czasie.
+Więc chcę to przepisać jako wyrażenie w sposób
+może mogę to uprościć.
+Więc 2x plus 2.
+Więc tak długo jak to wyrażenie jest równe
+"to okazuje się, że ta funkcja "
+Ta funkcja.
+"Cóż, dla każdego wartości, od x równa się minus "
+równa się minus 1.
+"I widzieliśmy, kiedy x jest równe minus 1, jest nieokreślone. "
+<unk> że f(x) równa się 2 kiedy x nie jest równe 2, "
+równa się minus 1.
+<unk> --&gt; <unk> prawda? "
+Użyję innego kolorem.
+To jest 2.
+f(x) równa się 2.
+"To jest 1, to jest 2, to jest 2, a tak dalej. "
+"W minus 1, wykres jest nieokreślone. "
+A więc jest to tutaj.
+I dalej będziemy mieli lewą stronę.
+<unk> cóż, jak x - zrobię jeszcze innym kolorem "
+"Cóż, f(x) to 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, "
+dokładnie to samo.
+<unk> się z tym.
+"w jaki sposób to <unk> w algebry. "
+"x równa się równe, prawda? "
+"Myślę, że to może dać wam trochę intuicji, ale "
+"Kiedy chodzi o to, co granica jest "
+możemy to rozwiązać.
+"Ponieważ to co chcesz zrobić, to powiedzieć, "
+I wtedy możesz kontynuować bliżej i bliżej minus
+"1 i zobaczyć, jaka jest funkcja <unk> i w tym "
+Zróbmy kolejne zadanie.
+0 z 1 przez x?
+zróbmy to na obie strony.
+"Zobaczmy, zróbmy to <unk>
+"Myślę, że to dać wam intuicję i może "
+"Powiedzmy, że to jest f od x. "
+f od x - możesz powiedzieć że mój prezentacja jest
+A więc jaka jest f -- właściwie zróbmy Laplace'a.
+f od x.
+To jest nieokreślone.
+Więc jesteśmy bliżej i bliżej 0
+w kierunku ujemnej strony.
+<unk> z moją <unk>
+Teraz mój <unk> <unk>
+"Zobaczmy, co się dzieje. "
+"Spróbujmy to rozwiązać i w bardzo <unk> "
+<unk> zamierzam kontynuować ten problem. "
+Tak więc faktycznie zobaczymy w następnej prezentacji
+w tym problemie.
+Do zobaczenia.
+""
+Zobaczmy.
+Po pierwsze, jaka jest 15% z <unk>
+<unk> "
+Mnożymy to przez 40.
+<unk> zero
+Następnie liczymy przecinek w ten sposób.
+<unk> dwa. "
+w tym miejscu.
+"To jest to samo, co 6. "
+<unk> licznik i mianownik przez 10, to "
+<unk> przecinek przez dwa do lewej.
+"W tym przypadku, jeśli zaczynamy od 0.2 "
+<unk> <unk> "
+To jest klucz.
+7 razy 2 równa się czternaście.
+Ile liczby mamy lub ile liczb
+cyfry po przecinku.
+Zobaczmy.
+"To jest jeden, dwa, trzy. "
+"Myślę, że to jest mniejsza niż jedno procent. "
+Więc to jest nawet mniejsze niż jeden do 100.
+"To zawsze jest dobra <unk>
+I mnożymy to przez 4.
+"Nie mówię, jaka jest 20% procent <unk>
+Teraz zajmiemy się trochę algebry.
+"Więc 20% to to samo, co <unk> "
+Jest dwa sposoby na wykonanie tego.
+Więc jeśli podzielimy 0.2 tutaj i dzielimy przez 0.2
+Mamy x równa się 4 podzielić przez <unk>
+Zastanówmy się czym jest 4 dzielone przez 0.2
+tutaj w prawo.
+które mieści się w 40.
+I to jest proste.
+"do zero, zero razy. "
+Więc 4 podzielić przez 0.2 równa się 20.
+I co to znaczy?
+A cztery razy pięć to 20.
+To ma sens.
+Spójrzmy na 20 procent z 20.
+wybieram liczbę.
+<unk> przecinek tutaj.
+3 razy 9 jest 27.
+w nieskończoność.
+to samo co 1 / trzy.
+To jest proste.
+""
+"Kiedy zawsze się <unk> o <unk> <unk>
+"Jest bardzo łatwo zrozumieć w kontekście <unk>
+każdy człowiek jest <unk> i <unk> <unk>
+Każdy słowa was <unk>
+<unk> Fresco ma mnie <unk> "
+"Dla każdego z nic nie <unk> czy "
+<unk> się w <unk> informacji, które pozwala <unk>
+""
+pięć Praw Natury
+Trzecia rewolucja w medycynie
+Jakie są pięć Praw Natury
+<unk> i <unk>
+<unk> z drugiej strony, jest <unk> <unk>
+"i to jest część tego, co mamy do czynienia"
+<unk> zostają <unk>
+"Teraz, w porównaniu do sytuacji z <unk> <unk>
+"W ciągu tej ilości komórek, jeszcze więcej tlenu może być <unk>
+"Jeśli pacjent się z lekarza, <unk> się z lekarza, <unk> <unk>
+"i mówią, że to przedstawia <unk> <unk>
+"Jednak to jest raka Specjalny <unk>
+to jest tylko objawem konfliktu konfliktu.
+<unk> jak <unk> się <unk>
+nie jest to dla mnie <unk>
+Nie w żadnym wypadku był tam infekcji.
+<unk> przykład w szczególności <unk> <unk>
+"ale w każdym razie, nie są <unk> ale nie jest <unk>
+<unk> <unk> <unk> lub innych <unk> "
+AIDS?
+<unk>
+"Teraz ruch jest <unk> <unk> w Europie <unk> <unk> Nowa <unk>
+Przejdźmy do kolejnego tematu.
+"jak te pięć Praw Natury,"
+Kto wie, jak to naprawdę <unk>
+<unk> <unk> <unk> <unk> i <unk>
+<unk> <unk> jak nie potrafimy znaczenia tych <unk> <unk>
+Zaczynamy na cały nowy problem.
+<unk> w przyszłości w przyszłości nie <unk>
+lub <unk> strachu przed <unk>
+W porządku.
+które <unk> podstawowe założenia
+<unk> 1 nie ma bardzo rzadko w nauce.
+"To jest cały nowy problem."
+<unk> <unk> z człowieka <unk>
+"Te Pięciu Praw Natury <unk> <unk> <unk> <unk> <unk>
+"Ale jeśli dr Hamer jest <unk>
+jeśli to jest prawdziwe dla biologicznego konfliktu.
+"Z 90% komórek, to jest <unk>
+"To było <unk> z <unk> <unk> <unk>
+"Ale to nie oznacza, że jeśli jeden z dwóch rzeczy, które są <unk> z <unk>
+"To była wzdłuż tej samej linii, gdy 2008 roku <unk> <unk>
+"Niezależnie od tego, co jest w żaden grupie <unk> jednej grupy <unk>
+<unk> że niebieskie skarpetki wzrost <unk>
+<unk> jest takie same dla wszystkich leków i są one <unk>
+który w pewnym sensie <unk> <unk>
+"To jest od 100 osób <unk> raka <unk> raka <unk>
+"Jeśli diagnozą był rację, jak <unk>
+To jest ich <unk>
+którzy ponosi bardzo drogie reklamy.
+<unk> medycyna <unk> <unk> <unk> <unk>
+<unk> w tym momencie w której <unk> to <unk>
+że to będzie <unk> i to będzie <unk>
+nie jest do <unk>
+i <unk> się tego bez <unk>
+Była w stanie zidentyfikować każdą krzywe w świetle <unk>
+"Oczywiście, <unk> <unk> <unk>
+<unk> nas, aby po prostu zastąpić <unk> przez kogoś innego. "
+Tutaj chodzi o zachowanie gatunku.
+"Bardzo łatwo było znaleźć ten konflikt w moim przypadku. "
+"Kiedy konflikt został <unk> w fazie aktywnej i fazy zdrowienia, <unk>
+To proces <unk> <unk>
+I to jest związane z <unk>
+"czy <unk> <unk> lub <unk>
+<unk> <unk> <unk> <unk>
+To daje nam nowy nowy widzenia.
+"Po pierwsze, nie zmieni się tego, czego się <unk> ale"
+<unk> genetyczne o pięciu Praw Natury nie jest równe
+<unk> się w tym samym świecie, sposób organizm w stanie wojny. "
+lub <unk> metody <unk>
+"są teraz <unk> w kontekście <unk>
+"W związku z Nowej Medycyny jest to podstawowe zrozumienie technologii "
+"I być może coś, czego nie <unk> się do <unk> nauki. "
+i <unk> ludzkiego człowieka
+A jeśli nasze <unk> <unk> się poza tym <unk>
+i powiedział:
+"Czy to znaczy, że lobby przemysł mleczarski był bardziej potężny niż <unk>
+"Tak. Więc było to dla ostatniej 30 lat, "
+<unk> zmiany w Niemczech opieki zdrowotnej w Niemczech <unk>
+nie są <unk> z powodu lobby lobby farmaceutycznego.
+<unk> <unk> jest jednym z filarów
+<unk> tego nie <unk> się w <unk>
+<unk> możliwości na godzinę w stosunku do jednego <unk>
+"I to jest dlatego wielu ludzi <unk> w <unk> "
+"I to brzmi proste, ale warto zrozumieć i trudno <unk>
+"To jest to, co nazywamy <unk>
+"Na przykład, który nazywa się dla niego <unk> Jeśli zwierzę w <unk> <unk>
+<unk> od tego momentu jest to <unk> <unk> <unk> <unk>
+"Teraz, co może być <unk> w <unk>
+A może człowiek może być konflikt konflikt z innych <unk>
+"Możesz je zatrzymać ten program, który może być w tym problemem <unk>
+<unk> wpływają na zmianę <unk>
+<unk> <unk> jest <unk> <unk> który jest <unk>
+"że człowiek może być w stanie żyć w <unk> <unk>
+<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+<unk> się <unk> czy życie <unk>
+<unk> ta sytuacja <unk> się strachu przed śmierć, a może <unk>
+"Ale w zależności od razu. "
+<unk> się od środka i to jest całkiem <unk> jak <unk>
+<unk> się od tego <unk> Jak <unk> się od tego <unk>
+"Kiedy będziesz <unk> <unk> <unk> w <unk> <unk> <unk> <unk>
+<unk> z którego nie można <unk>
+aby utworzyć programy <unk>
+<unk> Prawo Natury mówi nam, że te cechy są <unk>
+Nie ma <unk> w <unk>
+może już już znaleźć tylko w alfabecie <unk>
+Jedna <unk>
+kiedy <unk> <unk>
+który otwarte jego oczy na <unk> <unk>
+albo nie było zbyt <unk>
+"W żadnym sposób, jak te trójkąty <unk> <unk> te same <unk>
+"Wyobraź sobie pięć ludzi, którzy idą do ich wspólne <unk> "
+Każdy z pięciu osób, które są <unk>
+Co się stanie?
+<unk> i guz podaż fazy do <unk> więcej składników <unk>
+Pan B składa się w firmie <unk>
+Pan B <unk> i może spowodować serce <unk>
+Pan D widzi tylko tylko źródłem <unk>
+W przypadku D nie ma znaczenia.
+<unk> symptomy objawy A, B i C."
+<unk> z tego przykładu.
+Mogą mieć różne konflikty ani <unk>
+<unk> na każdą stronę.
+"To są tylko trzy możliwości <unk>
+Ale jest wciąż nieskończenie wiele możliwych <unk>
+"Więc nie tylko jeden Specjalny <unk> <unk> <unk> <unk> <unk>
+Jedna <unk>
+tak samo jak <unk> się <unk>
+Ale nie jest to oczywiste dla wszystkich <unk>
+Tutaj jest przykład samego samego działania.
+Każdy z nich może być zupełnie różne sytuacje, ale <unk>
+"A małe dziecko próbuje <unk> się do <unk>
+"Więc to nie może być jej <unk> ani nie <unk> <unk> "
+<unk> nie może być <unk> w swoim <unk> <unk> <unk>
+To ciężko zrozumieć w początku.
+"Wszystkie bardziej trudno jest <unk> <unk> w jaki każdy będzie się przydatne. "
+jest zupełnie inaczej.
+<unk> Specjalny <unk> który pomaga nam <unk>
+Tak więc to jest bardzo ważny część rozwiązania dla nauki.
+A więc w jaki sposób są takie <unk>
+aby rozwiązać to zadanie.
+i jest w pewnym sensie <unk>
+"Tak więc jeśli w korze <unk> w którym występują aktywne komórki <unk>
+A więc z pewnością <unk>
+i w korze <unk>
+<unk> między innymi <unk> <unk> i w jaki sposób <unk> się o <unk>
+"kiedy widzę przed <unk> wiem co jest <unk>
+Tak więc jak <unk> nie potrzebujesz zdjęcia
+"Musimy spojrzeć na pacjenta jako <unk> i nie tylko w <unk> obraz. "
+"Jest to wynikiem konfliktu - zmiany w myślimy o której część tego strategią by znaleźć "
+jak wszystkie myśli <unk> wokół zadania.
+<unk> nie <unk> <unk> <unk> <unk>
+W odpowiednie mózgu widzimy ognisko Hamera.
+<unk> natychmiast <unk> <unk>
+"Ale jeśli chodzi o coś <unk> <unk>
+że niektóre konflikt powoduje pewien konflikt
+"Nie można powiedzieć: Ten konflikt był <unk> więc ta objawy musi się <unk>
+"Ale z powodu <unk> gruczołów <unk>
+<unk> która jest <unk> więcej mleka.
+"Ale bez wiedzy nie <unk> się w tej sytuacji, będziemy mieli <unk>
+które nazywamy naszymi raka.
+"To jest cały nowy spojrzenie na cały proces <unk> medycyny <unk>
+Ale w środowisku środowisku,
+"Na przykład g. "
+Albo to się dzieje z cokolwiek innego, co sprawia, że matka <unk>
+<unk> gruczołów mlecznych zaczyna <unk>
+i pomagają je <unk>
+W zasadzie chodzi o konflikt <unk> <unk> <unk>
+"Wszystko jest <unk> co najważniejsze jest <unk> <unk>
+Te części rodziny są ich istotne w innych <unk>
+<unk> tych mogą być <unk> z <unk> Prawa Natury."
+podczas fazy dnia.
+Każdy z boków się <unk>
+<unk> <unk> jak <unk> się <unk>
+To nazywa się faza aktywnej konfliktu.
+"To jest to, co nazywamy <unk>
+"W bezpiecznym miejscu, albo kiedy rozwiązaniu konfliktu jest <unk>
+Nie ma nic <unk>
+"z <unk> <unk> w nocy."
+"To jest prawie niemożliwe dla niego <unk>
+ma <unk> <unk> <unk>
+"Jeśli ten punkt jest równy pół roku lub rok na <unk>
+Zazwyczaj nauczymy się z naszymi <unk>
+"Kiedy <unk> się <unk> moje myśli moje myśli wokół nich <unk>
+ten rozwiązaniu konfliktu. <unk> go w wagotonii,"
+"w tym przypadku w tym przypadku, czy fazie zdrowienia.
+aby przywrócić reakcja
+które nie było w fazie konfliktu.
+"Oznacza to, że istnieje wiele różnych definicji pytania.
+<unk> w zależności od tego, jak to się <unk> "
+"To może być spowodowane <unk> że pierwsza konflikt konfliktu zazwyczaj się z małymi <unk>
+Jedna <unk> <unk> może być w każdym fazie zdrowienia
+<unk> je jako <unk> <unk> coś takiego jak coś <unk>
+a pod niektórych okolicznościach, może być <unk>
+"To tylko oznacza, że <unk> się w górę lub <unk>
+"Tak więc na przykład podczas aktywności konfliktu nadal zostanie <unk>
+czy w pewnym sensie <unk> <unk>
+w fazie aktywnej pojawia się w fazie zdrowienia.
+<unk> <unk> <unk> objawy fazy zdrowienia.
+"Oznacza to, że są mniej silne. Ale w <unk> zdrowienia proces zdrowienia jest <unk>
+"To, co nie jest możliwe, że w ogóle jest <unk>
+W przypadku fazy zdrowienia zdrowienia zdrowienia zdrowienia fazy aktywnej konfliktu <unk>
+ale także <unk> go w fazie zdrowienia.
+<unk> jest to, że znamy więcej dokładnie kiedy <unk>
+"I teraz znając 5 Praw Natury rozumiemy, że coś jest bardzo ważne."
+przez 5 Praw Natury
+i <unk> pacjentowi kortyzon i <unk>
+"Albo widzę zapalenie i dać pacjenta i <unk>
+<unk> po rozwiązaniu konfliktu.
+nawet jeśli nie jest w pełni <unk>
+Więc te objawy zawsze zawsze <unk> <unk>
+"To może być <unk> kiedy coś jest <unk> kiedy nie wiemy, gdzie coś innego."
+"Kiedy nie wiemy, co musi zrobić, jeśli coś działa, gdy coś działa, gdy coś nie może być <unk>
+"Albo kiedy jesteśmy <unk> lub inaczej <unk>
+Na przykład dlaczego niektóre organy powstają w fazie zdrowienia.
+"Więc nie martwcie się, czy nie <unk>
+"Ale razem z drugiej strony, reprezentuje jednym <unk>
+"to znaczy, że grupa odgrywa biologiczny <unk>
+<unk> się w organizm.
+<unk> listek zarodkowy <unk> jest podzielona na dwie części, wszystkie cztery typy <unk>
+<unk> <unk> mózgu i Nowej mózgu <unk>
+"W tej linii z nowego mózgu i stary mózgu, widzimy różnice różnice są"
+w zależności od <unk> <unk> w dwóch organizmie.
+w fazie aktywnej fazy konfliktu.
+w fazie aktywnej
+<unk> się tylko z <unk> <unk> <unk>
+podczas fazy aktywnej podczas aktywności konfliktu.
+i <unk> w fazie zdrowienia.
+"ale jest to objawy objawy aktywności konfliktu związane z <unk> <unk> Będziemy mieli bardziej <unk>
+<unk> w jaki sposób się Specjalny <unk> <unk> <unk> <unk>
+Bez komórki.
+"Nie są <unk> ale według Prawa Prawa Natury."
+"Wielu <unk> z tych czterech grupy tkanek może być <unk>
+w przypadku zwierząt.
+własnej wartości.
+"Tak więc biologiczny zawartość konfliktu są <unk> przez funkcje <unk> i co <unk>
+podczas gdy różne konflikty własnej własnej
+i w fazie zdrowienia fazy zdrowienia.
+"na którą <unk> nie może być <unk> z <unk> <unk> "
+"W grudniu Jestem <unk> ból <unk>
+<unk> <unk> Było to jasne, co się stało. "
+<unk> Widzieliście w końcu <unk>
+i dla nowych mózgu <unk> <unk> <unk>
+i <unk> się to dalej.
+<unk> <unk> <unk> <unk> w <unk>
+"Mogę zawsze zrobić, że problemy, konflikty <unk>
+<unk> w 100% z Nowej Medycyny
+<unk> <unk> z pewnością nie może być prawdziwe. "
+w fazie zdrowienia.
+A jak te objawy pojawiają się tylko po rozwiązaniu konfliktu.
+"Tak więc woda powinno być <unk> <unk> <unk>
+ale część całego procesu.
+A tu jest nasz <unk> Prawo Natury
+Bakterie i wirusy robią ich aktywność - jeśli coś – w fazie zdrowienia tkanek kontrolowanych przez <unk>
+że te bakterie były w miejscu od początku.
+to może prowadzi do stworzenia <unk>
+"albo <unk> mogą pomóc zmniejszyć tkanki w <unk>
+"że jest <unk> i że są tymi, które muszą być <unk> "
+"Kiedy chodzi o to, że człowiek jest <unk> <unk> <unk> <unk>
+co jest oczywiście jasne według Prawa Prawa Natury
+W fazie aktywnej zajmie miejsce w fazie zdrowienia,"
+"Wiemy też, że mikroby mają <unk>
+"ale jednak proces <unk> i <unk>
+Może <unk> w nowym mózgu jest <unk>
+<unk> <unk> nas <unk> i <unk> choroby staje się <unk>
+mimo że te same bakterie są w tym miejscu w tym miejscu
+W ten sposób ta sfera jest w fazie zdrowienia.
+"Po rozwiązaniu <unk> uczniowie jedną z innymi <unk>
+"w każdym przypadku, kiedy nasze objawy są objawy objawy <unk>
+<unk> jego objawy <unk> <unk> w zależności od Prawami Natury."
+<unk> <unk> że objawy nie są takie same. "
+i nie <unk> żadnej infekcji.
+Z punktu widzenia Pięciu Praw Natury nie ma <unk> <unk>
+ponieważ jest to silne podstawą dla pracy <unk>
+<unk> to może być przydatne."
+aby nikt z <unk>
+Specjalny Program Specjalny <unk> i nie można
+<unk> jeśli była to możliwe, że to może być <unk> to dlatego, że Specjalny <unk>
+<unk> nie <unk> tego z objawami fazy fazy zdrowienia.
+"I oczywiście, proces <unk> może spowodować konflikt <unk>
+"Tylko wyobraźcie sobie, że twoje matka <unk> <unk> <unk>
+więc <unk> może je <unk>
+"Ale oczywiście, każdy zastosowanie <unk> <unk>
+"Nie ma żadnych <unk> <unk> które <unk> <unk>
+Nie ma żadnego dowodów na przykład wirusów.
+Nigdy nie widzieliśmy system <unk>
+To nie są żadne <unk> Nie może być <unk>
+Co mogę powiedzieć?
+i <unk> w <unk>
+"I teraz potrzebujemy z powrotem <unk> pokolenie po <unk>
+<unk> go za czas.
+że wszystko to się <unk> jako wojny.
+<unk> z 5 Praw Natury wszystkie komórki mają taką samą funkcję. "
+"W pewnym sensie <unk> są tylko <unk> <unk>
+<unk> <unk> <unk> nie jest po prostu <unk>
+więc w poprzednim wykresie jest <unk>
+"Tak więc z punktu widzenia <unk> <unk> jest całkowicie nowa <unk> <unk> <unk>
+więc to nie jest w języku <unk> i <unk> tylko liczby w pobliżu zera.
+tylko w nowym <unk>
+<unk> się bliżej i <unk> to nie istnieje. Nie istnieje. "
+<unk> w Instytucie <unk> <unk> się z tymi <unk> <unk> jak to jest <unk>
+<unk> <unk> i to jest liczba grypie <unk>
+"Nie będę <unk> ani ani ani ani ani w przyszłości.
+<unk> <unk> który nie jest tak naprawdę <unk>
+To nawet <unk>
+W tym miejscu jest <unk> <unk> <unk> <unk>
+<unk> się z powrotem i z powrotem na całym świecie, a teraz jestem w <unk> bez lekarzy ani bez <unk>
+<unk> że ona nie <unk>
+i w ten sposób mogą spowodować śmierć komórki.
+w tym czasie.
+"Ten dowód jest bardzo trudne,"
+"Kiedy wiem na pewno, na przykład <unk> <unk> to nie może być <unk>
+"ponieważ <unk> dr Hamer <unk> <unk>
+<unk> się od razu.
+"i to może być <unk> żeby <unk> się z nami, aby być <unk>
+<unk> to oczywiście i zachęcam innych innych <unk>
+"To jest bardzo proste. Musicie tylko <unk> "
+i będziesz miał bardziej <unk>
+Nie. To jest tak łatwo sprawdzić
+"Jeśli to jest przekrój poprzeczny komórki, każdy może być <unk> że nie ma nic <unk>
+<unk> e. <unk> w <unk> więc to są <unk>
+<unk> przez komórkę <unk>
+i ta liczba <unk>
+I to jest próba <unk>
+jesteś <unk>
+"w jaki sposób to było <unk> - <unk>
+<unk> i <unk> ten <unk>
+<unk> który może być oczywiście oczywiście <unk>
+"Jak mamy <unk> po 20 razy 10 razy <unk>
+Z tego powodu nie <unk> ani raka lub raka będzie w stanie krok
+tak jak wszystkie inne bakterie mogą wyprodukować jedynym <unk>
+A <unk>
+W <unk> mózgu widzimy ognisko Hamera.
+"Jest to również warte zdawać sobie sprawę z <unk> <unk> <unk> <unk> <unk> <unk>
+zwłaszcza z powodu w korze <unk>
+"Na płaszczyźnie aktywnej po rozwiązaniu konfliktu jest <unk> przez <unk>
+"i jesteśmy w stanie zrelaksować i <unk> jeśli <unk> "
+<unk> się w tym fazie zdrowienia A.
+i <unk> do końca całego procesu.
+Dlatego będziemy mieli <unk> podczas fazie zdrowienia zdrowienia.
+<unk> spowodowała <unk> <unk>
+W fazie zdrowienia A jest dla <unk> trzech tygodnie.
+<unk> konflikt nie jest <unk> <unk>
+w przypadku fazy zdrowienia musi zacząć od siebie.
+albo coś innego - to są faza aktywnej i <unk>
+"w którym <unk> fazy zdrowienia, kiedy idziesz znowu ponownie konflikt <unk>
+To jest jeden punkt <unk>
+"I z powodu tych trzech <unk> w fazie <unk>
+<unk> w ten sposób w jaki sposób epikryzys jest <unk>
+i wymaga leków lub wymaga innych leków
+"Zgodnie z nowej wiedzy, leków może być zaczęło w tym czasie <unk>
+"To dlatego, że podczas <unk> mózgu jest <unk>
+są to pozostałe warunki stanów <unk>
+"a dla którego nie powinno próbować nie <unk> się <unk>
+Tutaj jest cały proces <unk>
+"Podczas fazy aktywnej fazy aktywnej mózgu <unk>
+i poszukiwanie rozwiązania konfliktu.
+więc fazy fazy <unk> w przyśpieszonym <unk>
+może być użyta w tym momencie.
+"Istnieją trzy różne sposoby w jaki sposób <unk>
+i zawiera wiele różnych <unk>
+nie mają reszcie na <unk>
+"Często jest to lista 20 objawy lub nawet innych. "
+"Który listek zarodkowy - który tkanki znajduje się w <unk>
+<unk> <unk> To zawsze zawsze ma znaczenia.
+"Jest tylko tylko żaden konflikt <unk> które są <unk>
+i to <unk> 120 litrów
+"Podczas fazy aktywnej wody może być <unk> w <unk>
+Ta reakcja nie ma nic wspólnego z bardzo <unk>
+<unk> organizm do przechowywać wszystkich składników <unk> jako rezerwę.
+jest w stanie rozmawiać z swoim <unk>
+"Ale nie jest zawsze to samo, co jest zawsze to samo, co <unk>
+"To jest mechanizm <unk> <unk> <unk> i tłumaczy dlaczego nie działa. "
+Ale wymagane zgodnie z aktywnością cewki zbiorczej nerki.
+<unk> w mózgu i na narządzie i na narządzie jest wiele razy <unk>
+kiedy w tym samym czasie organizm jest w <unk>
+to może się stać 10 razy.
+i inne objawy pojawiają się tylko z <unk> zbiorczej zbiorczej nerki.
+więcej wody.
+"Lub kiedy istnieje trochę <unk> po rozmowie z <unk> lub po prostu "
+"Nawet gdy znasz lub <unk>
+podczas <unk>
+jako faza aktywnej jest już <unk>
+po rozwiązaniu konfliktu.
+<unk> się z rodzice <unk>
+to może być zinterpretowane seksualnie.
+"Dla starszych dzieci jest <unk> że ich rodzice "
+i nie ma już <unk>
+Teraz inne ważne są związane z <unk> konfliktów.
+<unk> przez ten sam mózg <unk> i zawsze reagują <unk>
+serce zadania
+"że naprawdę oczekiwana <unk> <unk>
+ale w końcu ten proces <unk>
+<unk> kilka problemów
+ale nie już już już już już <unk>
+<unk> go w swoim <unk>
+Dlatego objawy objawy pojawiają się na prawo lub po lewej stronie ciała
+<unk> to stosuje się do matki.
+<unk> zazwyczaj są <unk>
+kiedy <unk> od matki lub matki
+"z <unk> <unk> <unk> w prawo od prawej strony, "
+"W ten sposób <unk> i czasami mają wpływ na <unk>
+Jednak prawdziwy <unk>
+"Więcej <unk> jest to znaczenie wszędzie wszędzie z wyjątkiem <unk> kontrolowanych przez mózg <unk>
+<unk> gruczołów <unk> lub <unk>
+będzie miała konflikt utraty własnej wartości w lewo
+<unk> utraty własnej własnej wartości na odpowiednich <unk>
+Tutaj jest <unk> <unk> <unk>
+faza zdrowienia mogą spowodować nowe lokalne utratę własnej wartości.
+"Tak więc zaczyna się od tej pory zaczyna się od komórkę <unk>
+"To jest dlatego wielu ludzi nigdy nie <unk>
+może spowodować konflikt własnej wartości.
+<unk> może wyglądać mniej <unk> Moje ciało jest mniej <unk>
+"Pierwsza rzecz, który jest stała <unk> konfliktu.
+<unk> ten sam Specjalny <unk>
+"To jest ważne, aby zrozumieć, że jedynym jedynym jedynym <unk>
+<unk> <unk> <unk> <unk> <unk> <unk>
+i w zależności od utraty własnej wartości <unk>
+jak działa czas czasu i znowu <unk>
+"Kiedy wpływ na raka medycyny faza zdrowienia <unk>
+które wymaga wielu <unk>
+<unk> <unk> <unk> nie ma <unk>
+<unk> złożenia wydaje się być
+"Załóżmy, że w tych dwóch <unk>
+"To się dzieje, jak <unk> powiększoną oczy i katar."
+Ten sam Specjalny Specjalny <unk> <unk>
+"Może <unk> te reakcje do <unk> <unk>
+<unk> <unk> lub jej nowy <unk> <unk>
+Było to jeden z nieskończenie wiele przykładów przykładów.
+<unk> Specjalny <unk>
+a jego zawartość nie ma już <unk>
+"Nie było to w miejsce, ale został to <unk>
+<unk> się tylko mój <unk> <unk> w ten sposób.
+"Tak więc <unk> to co jest <unk> i dlaczego, i co się stało? "
+Dlaczego chcę być oddzielony - albo nie <unk> -
+"Nie wiem dlaczego. Nie był w pamięci. <unk> się w pamięci.
+"Więc to <unk> <unk> <unk> <unk> <unk> <unk>
+<unk> w moim domu, ale nie <unk> <unk>
+Jestem teraz <unk> Jestem <unk> i nie może być <unk>
+"Nie ma żadnego osoby, który chce mnie <unk> mnie, "
+"Kiedy jestem teraz duży i silny."
+nie <unk> się w <unk>
+<unk> jestem prawie wolne z <unk> <unk>
+"Musimy mieć osoby, to może być mój <unk>
+ale przez osobę <unk>
+"mogą być całkowicie <unk> czy <unk>
+<unk> często jest fakt, że jest to twierdzenie <unk>
+<unk> kota jest tutaj <unk> I objawy objawy objawy <unk>
+podobne do swoich własnych i mniej dochodu.
+Ale to jest poprawne?
+który jest całkowicie w <unk> <unk> Trzeciego Prawa Natury."
+"To znaczy, że nie ma pojęcia, że dr Hamer jest <unk>
+i nie powinno być w nauce.
+którzy <unk> w ręce dr <unk>
+"A więc, że on <unk> 0.2 z innymi <unk>
+"Moja początkowy <unk> że to jest zbyt dużo. "
+Nie można kontrolę do tego samego procesu.
+"I przez znając Nowej Medycyny rozumiemy, że <unk>
+"w którym człowiek jest bardzo ważnym <unk>
+którzy nie mają zbyt dużo sensu.
+"Z perspektywy Nowej Medycyny możemy powiedzieć, że mamy nowy pomysł
+<unk> i możliwości pacjenta - co mogą osiągnąć razem.
+"Nie, nie możemy do siebie <unk>
+<unk> się <unk> Kiedy nie <unk> że musi wyleczyć się <unk>
+<unk> <unk> który oczywiście nie ma wpływ na <unk> jego <unk>
+Ale większość ludzi <unk> tych rzeczy.
+Jego część życia jest zależne od życia.
+"przeciwko wszystkie szanse i podążać ze sobą.
+<unk> go dla tych Pięciu Praw Natury
+"Niestety, nie wszystkie ludzie <unk> się tak.
+<unk> rzeczą, którą powinno być <unk> jak i ludzie powinny się <unk>
+"Po prostu widzimy, że to jest w <unk> "
+"Myślę, że to jest sposób, aby szybko <unk> <unk> "
+"Kiedy więcej ludzie <unk> się Nową <unk>
+"Nie ma żadnego <unk> w <unk> do zrozumienia tego dla Ciebie. "
+"Nie będę <unk> kiedy nie <unk> tego sami. "
+nie <unk> ich.
+Tak więc wciąż się <unk>
+"i mówi im to co zrobić, więc nie potrzebujemy żadnej <unk>
+"albo tak samo jak <unk> <unk> <unk> <unk> <unk>
+"I w tym punkcie, siłę wszystkich wszystkich tych wszystkich <unk>
+które są początek i koniec każdego procesu. A to jest <unk>
+"kiedy w końcu w końcu jest problem lub <unk>
+i niektóre z przyczyn czy choroby są objawami cechy konfliktów.
+"W każdym razie, kiedy mam <unk> <unk>
+kiedy już się <unk>
+i <unk> <unk> tylko objawy fazy zdrowienia.
+i że poniższych pokolenia może nie być <unk>
+"To jest również jasne, że w pierwszym scenariuszu, "
+"Ale są w pewien sposób nowe <unk>
+Nasza strona ma <unk>
+A w naszej chwili możecie zadać sobie jak wiele pytań
+To może być pierwsza zmiana paradygmatu w czasach <unk> w <unk>
+Więc to może się wydawać bardziej w tym czasie.
+Ale wciąż zależy od każdego z każdej z tych
+"I znowu, będziesz miał odpowiedź <unk> <unk>
+nie jest o choroby, w pierwszym miejscu.
+"Kto lekarz <unk> jego <unk> jego <unk> nie może być <unk>
+"Ponieważ Nowa Medycyna jest tylko dla tych którzy <unk> się <unk>
+aby zrozumieć i sprawdzić je na wszystkie objawy <unk>
+Czy 5 Praw Natury
+<unk> wszystko może być <unk> Nowa Medycyna i to działa.
+<unk> bez wątpliwości.
+"Tak, - <unk>
+"Jeśli to jest <unk> <unk> nie mogę <unk>
+"Nie wiem tego i nie mogę to sprawdzić. Ale myślę, że Nowa Medycyna jest <unk> "
+"i jestem pewien, że Nowa Medycyna jest <unk> "
+Jak to działa?
+<unk> wpływ na naszej zrozumienia rzeczywistość
+i może być - albo może to <unk>
+Na początku jest <unk>
+nie odnosi się do <unk> reakcji.
+<unk> jest <unk> przez wszystkie <unk>
+"Wyniki badań w czasopiśmie naukowym,"
+"gdzie zostają zauważone, zrecenzowane, pochwalone i cytowane przez środowisko naukowe."
+<unk> naukowiec ma wątpliwości.
+<unk> z nich nie reaguje <unk> <unk> z wyjątkiem jednego.
+"Wyniki badań opublikowano w czasopiśmie naukowym,"
+"gdzie zostają zauważone, zrecenzowane, pochwalone i cytowane przez środowisko naukowe."
+<unk> dla <unk> oczy wygląda na <unk>
+"Wyniki badań opublikowano w czasopiśmie naukowym,"
+"gdzie zostają zauważone, zrecenzowane, pochwalone i cytowane przez środowisko naukowe."
+"Ponieważ w Rosji, reagują wszystkie ludzie ze <unk>
+"że w niektórych części Rosji, ludzie mają po <unk> funkcje <unk>
+<unk> się na konto <unk> i widoczne czynniki <unk> "
+i zawiera wynikiem kilku <unk>
+Więc nie można to być daleko od siebie.
+jak to się <unk>
+<unk> badania <unk> na <unk> Następnie będziemy mieli podstawę
+""
+poza jakimkolwiek <unk> <unk> <unk>
+"albo tak blisko 400 miliardów lub jakakolwiek liczba "
+"I jeśli <unk> je coś innego niż <unk> "
+<unk> ludzie mogą poruszać się na ich życie.
+"ale przynajmniej teraz rząd będzie w stanie przejąć <unk> "
+i w końcu <unk>
+"Możecie sobie wyobrazić, że sytuacja jest "
+ale twoje dług nie się zmienia.
+"I nawet w Grecji to być <unk> ponieważ możecie sobie wyobrazić, "
+"można sobie wyobrazić, że zaczynamy od razu "
+Albo <unk> <unk>
+"Powiedzmy, że to jest <unk> <unk> "
+<unk> ludzie są już <unk>
+"Więc ludzie zaczynają <unk> "
+"I to przez siebie jest trochę <unk> <unk> tryb <unk> "
+"Ale poza każdym <unk> wydaje się, że jedynym opcji która ma w tym punkcie. "
+""
+""
+i krew płynie w tym <unk>
+<unk> komórki będą mniej tlenu.
+"Ta komórka komórka tutaj, nie będzie wystarczająco <unk>
+"I to nie jest to, co wygląda mięsień <unk> Nie chcę wchodzić w tutaj... "
+<unk> <unk> <unk> i ponieważ z tej choroby "
+"nie będzie w stanie tego zrobić, ponieważ nie ma wystarczająco dużo tlenu. "
+"To jest <unk> słowa <unk> "
+""
+"ale wiele z tych kropek są tysiące gwiazd, tak więc ten"
+<unk> byli już już <unk> ale w tym filmie, "
+"wiecie, wiecie, że Droga Droga <unk> <unk> <unk>
+<unk> na 4 000 000 000 000 lat po drugiej stronie równania.
+a średnica jest 150 razy 150 milionów lat świetlnych.
+"każdej z tych kropek są <unk> galaktyk <unk>
+"ale nadal nie <unk> to jest około miliardów lat <unk>
+"to jest najlepszy estymator światła Wszechświata, i w przyszłych filmach,"
+"więc jeśli <unk> tę <unk>
+"lub może Wszechświat się <unk>
+"i chcę to było jasne, możecie powiedzieć, ok, jeśli to światło tutaj"
+"to była po lewej stronie, chcę upewnić się, że to <unk>
+<unk> się od tego, jeśli myślisz o tym, wszystko wszystko <unk>
+"Ten obiekt został <unk> się od nas, więc nasz najlepszy estymator gdzie jest <unk>
+"nie <unk> nas, nie są <unk> w <unk>
+"że wszystko było <unk> <unk> ale teraz jesteśmy w rzeczywistości. gdzie"
+""
+Więc zapiszmy to.
+"Dwa razy cztery lata i znasz tabliczkę mnożenia, "
+"Wiemy, że to jest to samo, co osiem. Dwa razy 4 to osiem. "
+A to jest to samo co cztery dodać 4. To będzie również osiem.
+"Jeśli znasz tabliczkę mnożenia tego powinno być może"
+i tabliczkę mnożenia to jedna z tych rzeczy w <unk>
+"To powinniście po prostu wiedzieć, "
+Ale możemy to zrobić trzy razy 8 razy 8 razy 8
+Czyli 8 dodać osiem plus osiem równa się szesnaście.
+""
+"W innych sali, że kobieta <unk> "
+Czy <unk>
+Odpowiedź jest Tak.
+a nie <unk> na jakiś sposób
+"Na przykład, możemy spróbować "
+które pojawiają się w każdej <unk>
+ponieważ w obie strony były dość parzysta.
+Odpowiedź jest <unk> liczby rzeczywistych
+aby zawierać każdą sekwencję każdego
+Jednym z powodu
+niektóre wyników są mniejsze od innych.
+"Ale zrozumieli, że nie jest takie rzeczy, jak na szczęście "
+"Jeśli rzucę monetą 10 razy, to jest <unk> "
+Rozważmy <unk>
+zgodnie z monetą,
+""
+"I pytanie jest prawdopodobieństwo, że przynajmniej 2 "
+wielu <unk>
+To dobry sposób na <unk>
+"To jest to samo, co mówi, jaka jest prawdopodobieństwo,"
+"W pierwszym przypadku wydaje się, że jest naprawdę trudno "
+<unk> to prawda, więc dodaję prawdopodobieństwo każdej z nich"
+tych <unk>
+I potem dodać je i to staje się bardzo trudne.
+z jednej strony <unk>
+"To jest kąt przyprostokątnej - pozwólcie, że narysuję to "
+prawdopodobieństwa
+"Powiedzmy, że to jest wszystkie wyniki. "
+Chcemy wiedzieć -- narysuję to w kolorze -
+"Powiedzmy, że to jest prawdopodobieństwo, ten obszar tutaj"
+i nie wiem jak duże jest tak naprawdę
+"Powiedzmy, że to jest prawdopodobieństwo, "
+Jaki jest pole tego <unk>
+To jest to co próbujemy obliczyć.
+"Prawdopodobieństwo, że ktoś ktoś <unk> "
+<unk> to jest równe 1.
+"Ponieważ jesteśmy w tej sytuacji, albo <unk>
+w tej sytuacji.
+"W każdym razie, 100% w 100% i 1 to ta sama liczba."
+Równa się 100%.
+"Więc jeśli obliczymy prawdopodobieństwo, "
+Zobaczmy.
+Możemy po prostu przepisać to.
+"To jest równe 100% odjąć prawdopodobieństwo, że"
+"Powodem dla którego robię to dlatego, że "
+<unk> 5 osób, i staje się bardzo <unk>
+"Ale tutaj, gdybym chciał obliczyć prawdopodobieństwo, że"
+"Jakie jest prawdopodobieństwo, że każdy ma "
+<unk>
+mają 2 osób w pokoju.
+<unk> 9 dni rocznie.
+"Więc jeśli masz 2 ludzi, prawdopodobieństwo, że nie <unk>
+<unk> na żadną dnia.
+<unk> do trzeciej potęgi.
+I możesz po prostu wpisać to na kalkulatorze.
+"Ale zanim to zrobimy, pokażę wam coś "
+Pomyślmy o tym.
+Ile to silnia
+aż do 1.
+<unk> <unk>
+To jest duża liczba.
+Muszę się pozbyć tych wszystkich tych liczb.
+"Jednym z rzeczy, które mogę podzielić to "
+przez wszystkie te liczby.
+ponieważ wszystkie te składniki się <unk>
+przez 365 kwadrat.
+"o <unk> ale staje się <unk>
+coś większe niż dwa wyrażenia
+I w zasadzie kolejny interesujący problem.
+"I to ma sens, ponieważ my tylko <unk> tylko dwa wyrazy "
+Chcemy tylko tylko dwa składniki tutaj.
+Tak więc będziemy mieli tylko najwyższą dwie wyrażenia po lewej stronie.
+"To jest równe - można to zapisać jako <unk>
+i to jest tutaj.
+"I potem podobnie, ten licznik tutaj,"
+mamy 3 <unk> silnia.
+"I to powinno mieć sens, prawda?"
+"I to się skracają się z wszystkimi <unk>
+po prostu to będzie po prostu po prostu <unk>
+I to jest to tutaj.
+<unk> przez co?
+<unk> to wszystko po prostu <unk> "
+Zastanówmy się czym jest cała prawdopodobieństwo
+w mianowniku
+Teraz chcemy podzielić licznik przez 365
+do potęgi <unk>
+<unk> to co robiliśmy wszystko <unk>
+była prawdopodobieństwo, że nikt z <unk>
+Jedna z jednym z <unk>
+równa się - jeżeli chcę odjąć to od 1.
+"w którym możecie powiedzieć, że to jest <unk>
+To jest właściwie całkiem wysokie.
+<unk> czasu, jeśli masz grupę 30 osób, przynajmniej 1"
+w pokoju.
+Tak więc to jest dość proste.
+I w pewnym sensie wynikiem tego samego czasie.
+""
+"Nie jestem pewien, czy mam bardziej <unk>
+lub bardziej efekt
+Ale różnica jest <unk>
+""
+"Czyli i zakładamy, że są większe od tych "
+<unk> krok przez krok w krok
+Przejdźmy na setki miejsca
+<unk> do linii. Mamy 7 setne <unk>
+"w jednej liczby i 4 C w innych <unk>
+""
+<unk> rzeczy <unk> <unk>
+mogą spowodować jakieś formę schorzeniami.
+Już już <unk> że istnieje dwie linie
+<unk> i nawet z tych <unk>
+"Pierwsza linia <unk> po prostu <unk> "
+<unk> która jest zasadniczo po prostu <unk> "
+I jest pewne oczywiste
+<unk> dla bakterie do niej.
+ale tak jest.
+"to nie jest dobry moment, w jaki sposób te rzeczy mogą się"
+"do naszych <unk> i musimy zacząć zastanawiać się"
+<unk>
+"Nie są <unk> wirusa albo "
+<unk> na każdy rodzaj <unk>
+<unk> A, B, C, a to jest bakterie A, C."
+"Nie wiemy jak typ bakterie jest do czynienia. "
+i w stanie <unk> lepiej
+są dwie rzeczy.
+Kiedy widzimy krew do pewnych części obszaru
+widzimy <unk> <unk> i <unk>
+"ale to jest jeden z <unk>
+<unk> <unk> która idzie w tym miejscu."
+Zrobimy to cały film.
+"I tak naprawdę, to co chcę zrobić przez resztę tego filmu jest"
+<unk> <unk> <unk>
+"Ma jakiś rodzaj jądra komórkowe, w tym miejscu."
+coś takiego.
+Oczywiście nie wyglądają tak.
+To jest bakterii.
+To jest droga
+inne rzeczy.
+A teraz <unk>
+<unk>
+To będzie wewnątrz komórki.
+każdy typ <unk> <unk>
+nie ma nawet wpływu na <unk>
+<unk>
+wokół tego kolesia tak.
+to nadal są tutaj
+<unk> --&gt; <unk> <unk> <unk> "
+ta część jest ta część.
+A drugi <unk> i zamierzam dać
+<unk> się w górę.
+inne cząsteczki.
+dużych białek.
+<unk> to po prostu podwójną aminokwasów.
+niektóre inne białka.
+Więc to może być mały kawałek tych bakterii
+<unk>
+to <unk>
+na błony.
+W przyszłości.
+jej powierzchnię.
+"To jest ważne dla naszych <unk> ponieważ zobaczymy inne "
+"Tak więc to <unk> ale teraz może go <unk>
+do komórki.
+"I 'm going to trochę bardziej <unk> "
+<unk>
+nie <unk> się przez różnych typów <unk>
+To są najbardziej powszechna wspólny <unk>
+I to są szybko i <unk> <unk>
+są szybko i <unk>
+"Powodem dla którego nazywane są komórki <unk>
+wyglądają jak <unk>
+"Więc wyglądają jak neurony na pewnym poziomie, ale"
+"W każdym razie, na każdym razie, zostawię was i będziemy rozmawiać "
+w kilku następnych filmikach.
+""
+"Mamy <unk> logarytm o podstawie 5 z 25 do <unk>
+To jest to w tym miejscu wewnątrz logarytmu naturalnego nie jest to przyjemna sposób
+"Pierwszą rzeczą, którą wiemy, że to jest jedna z własności własności logarytmów "
+"Więc logarytm o podstawie podstawy z <unk>
+"To jest równe logarytm o podstawie mniejszej z a minus logarytm o podstawie mniejszej z b,"
+"Teraz mamy 25 do <unk>
+Możemy to uprościć
+"To jest to samo, co b razy logarytm o podstawie mniejszej z nich"
+Ta część tutaj mówi nam
+""
+W tym filmiku będziesz <unk>
+<unk> proste.
+"To jest ten sam zbiór części, więc sprzężenie tego "
+"to będzie dokładnie to samo, "
+"Więc, zamiast minus pięciu i, "
+"To jest <unk> sprzężoną z <unk> "
+"to oznacza, że chcecie to sprzężoną <unk>
+7 odjąć pięć i.
+I to będzie równe 7 dodać pięć i.
+"Lub czasami ktoś będzie napisać, "
+"wtedy <unk> sprzężenie sprzężoną z "
+<unk> tę linię <unk>
+to będzie 7 dodać pięć i.
+"Teraz będziecie powiedzieć, że jest dość <unk> "
+ale co to <unk>
+dowolną liczbę liczby razy jego <unk>
+"I chcę <unk> "
+"Jeśli zaczęło się z tym, i zmienić znak "
+to otrzymam liczbę.
+I zrobię to na niebiesko.
+"I pamiętaj, jeśli pomnożysz te czynniki, "
+musisz po prostu pomnożyć każdą wyraz przez siebie.
+Możesz wykonać rozdzielność mnożenia dwa razy.
+każdą część tej liczby liczby
+dla każdej części tej liczby liczby
+Zróbmy to w ten sposób.
+Mamy minus pięć i razy 7
+Następnie mamy minus pięć i dodatnie pięć i.
+<unk> <unk> to minus <unk>
+<unk> mi to <unk>
+<unk> to minus 1, więc minus dwadzieścia pięć razy minus jeden "
+jest równe 25.
+Tak więc mamy tylko liczbę liczb <unk>
+"Można to zrobić, "
+Możesz to wyglądało jak wygląda tak.
+To jest coś plus coś razy
+<unk> coś minus <unk>
+razy to samo co plus coś.
+równa się <unk> minus <unk>
+Czy jest równe <unk>
+"A b, b, b, b, "
+"co jest minus 25, a my odejmujemy to. "
+Więc będzie to dodatnie <unk>
+""
+<unk> do zrobienia kilku problemów na temat <unk> "
+"I mówią, że f(x) równa się x kwadrat plus 4x plus 4. "
+<unk> które chcą się od minus 4, i"
+"I po prostu wiecie, ten przedział <unk>
+4 i <unk> 0.
+co było w problemie.
+"I inne ludzie <unk>
+"Więc to jest punkty gdzie pochodna pochodnych równa się 0, albo"
+pochodna tego nie istnieje.
+f prim od x równa się 2x dodać 4.
+Dlaczego to się równa 0?
+2x równa się minus 4.
+x równa się minus 2.
+"Wiemy, że f prim od minus 2 równa się 0. "
+"A potem plus 4, więc f od minus 4 to 4."
+A jaka jest f od 0?
+Więc teraz możemy to narysować,
+Narysuję tę różnicę.
+od x to jest równe minus 4.
+Od minus 4 do 0.
+<unk> punkty w którym nachylenie jest równe 0. "
+"I to jest wtedy, kiedy f jest równe minus 2, a to się dzieje "
+Więc wykres będzie wyglądał tak.
+Zrobię to innym kolorem.
+"I skoro interesuje nas <unk>
+Będzie to wyglądało tak.
+"nie chcę wiedzieć, gdy minimum."
+"To jest to samo, gdzie pochodna "
+równa się 0.
+"Ale mam nadzieję, że rozumiesz intuicję dlaczego. "
+"Jeśli to jest f prim od x, f prim od x równa się 2."
+pochodna będzie dodatnie.
+pochodna wynosi 0.
+nachylenie jest coraz <unk>
+Współczynnik kierunkowy to bardzo <unk>
+I chcą wiedzieć, czy <unk>
+Jakie są <unk> <unk>
+Są to punkty gdzie pochodna jest równe 0
+pochodna nie istnieje.
+"Tak więc jak widzicie w ten problem, mamy <unk>
+W każdym razie.
+Jaka jest pochodna tutaj?
+h prim od r.
+"To jest r do minus 1, tak, więc to się <unk>
+<unk> r od minus 2, albo to jest minus 1"
+przez r kwadrat.
+To jest pochodna.
+Czy to się równa 0?
+Nie będzie to równe 0.
+"To jest niezdefiniowana kiedy r jest równe 0. "
+r równa się 0 w tym przedziale
+"To jest punkt w którym pochodna i "
+funkcja jest nieokreślone.
+"Więc chcemy przejść od minus 1 do 3, tak więc będziemy <unk>
+mają jakieś wartości ujemne.
+Więc przechodzimy od r równa się
+r jest równe 3.
+"Będzie to <unk> do minus nieskończoności, jeśli"
+To będzie stosunkowo duża liczba.
+I co się stanie, gdy zbliżamy się do
+i bliżej 0?
+"Cóż, jeśli <unk> to bardzo mała dodatnie wartość, "
+i większe liczby.
+wygląda tak.
+"Więc to idzie do nieskończoności, a to będzie w tym"
+do minus nieskończoności.
+jest niezdefiniowana dla 0.
+na <unk>
+w przyszłym filmie.
+""
+aby utworzyć swój plan model
+"Dla każdego <unk> którą zawsze się <unk> "
+musimy umieścić go w miejscu koszty <unk> Tak więc wszystkie te zasobów
+"że naprawdę musisz myśleć przez to, co chcą się <unk> "
+""
+"Wiemy, że czworokąt ABCD jest równoległobokiem. "
+"I to co chcę się w tym filmie, to ogólny sposób przedstawienia obszaru <unk> "
+Co wiemy o <unk>
+"Wiemy, że przeciwległe boki są <unk>
+"I wiemy, że przeciwległe boki są przystające. "
+Więc ta długość jest równy temu
+A ta długość jest równy temu <unk>
+Możemy to zrobić w taki sposób.
+A potem oba te trójkąty się <unk>
+<unk> się <unk>
+"Co jest <unk> dla nas, ponieważ wiemy, jak znaleźć pole trójkątów. "
+Pole trójkąta to po prostu 1/2 razy podstawa razy podstawa razy wysokość.
+To jest 1/2 razy podstawa razy wysokość tego trójkąta.
+I mamy pod uwagę podstawę <unk>
+"I jeśli chcecie znaleźć <unk>
+<unk> --&gt; <unk> <unk>
+Czyli jeśli chcecie to pole powierzchni równoległobok
+Cóż dwa razy 1/2 równa się 1.
+Ale jeśli chcesz znaleźć pole powierzchni
+i jeśli można obliczyć wysokość
+"to po prostu bierzemy jedną z zasad ponieważ przeciwległe boki są równe <unk> "
+To jest jeden sposób na <unk>
+"Albo mógłbyś <unk> innym sposobem na <unk>
+To będzie punkt D.
+"Albo można powiedzieć, że równa się AD razy "
+Nazwijmy ją wysokość
+Może nazywam to <unk>
+<unk> że to jest równoległobokiem. "
+Jeśli <unk> ten bok to 5.
+"I jeśli <unk> wam, że ta odległość wynosi 6. "
+A pole tej równoległobok będzie dosłownie 5 razy 6.
+narysowałem go na zewnątrz
+Więc powierzchnia tej równoległobok byłaby 30.
+""
+"To co mam przed <unk> to Khan Academy pomiaru <unk> "
+"To jest bardzo fajna ćwiczenie <unk> ponieważ jest to "
+<unk> <unk> I w ogólności, kiedy chcesz "
+"więc <unk> by to zrobić, aby być <unk> chcesz to zrobić, "
+<unk> to w ten sposób, "
+<unk> <unk> wygląda na to, "
+jeden bok jest równy 0 i mój kąt
+czy jest w sposób
+i to jest odpowiedź odpowiedź
+i możemy dostać inne kąt
+i kąt jest teraz <unk>
+i <unk> odpowiedź
+tylko kilka więcej niż te
+<unk> --&gt; <unk> to zrobić, to nie jest zbyt "
+<unk> wam to.
+""
+Dlaczego mamy zamiar przejść przez <unk>
+<unk> tego co jest <unk> kiedy uczniowie je <unk> "
+""
+Odpowiedzią jest kiedy <unk>
+"I jeśli jesteś w istniejący rynku i będziecie wiedzieć, "
+""
+Ale zawsze jest <unk>
+na górze swojego głowy
+że nigdy nie byli w stanie <unk>
+""
+"Okazuje się, że to nie jest poprawny odpowiedź. "
+<unk> o czym się <unk>
+<unk> ciśnienie powietrza, w <unk> "
+"I tak, to oznacza, że niski gęstość "
+""
+Tak więc przesuwamy się jeszcze raz raz.
+"W tym <unk> moglibyśmy <unk> albo <unk> "
+"Więc aktywa są najlepszy miarą tego, co oni <unk>
+"Więc teraz <unk> to w zależności od dolara <unk> "
+Więc użyję bardzo <unk> przybliżenie dla USA.
+<unk> się o 700 miliardów dolarów wzrost pieniądza
+<unk> w ostatnim filmie <unk>
+<unk> <unk> <unk>
+<unk> aby kupić aktywa w trakcie 2010 roku."
+I właściwie pomoże <unk> <unk> to Salman Khan z Khan Academy dla Khan Academy
+""
+<unk> <unk> jest niezwykle <unk> "
+Możesz przeprowadzić tekst przez internet.
+<unk> <unk> informacje "
+tak jak szybko się <unk>
+<unk> oni <unk> "
+o wiele energii
+<unk> jej 5 razy rząd "
+To jest jak on się <unk>
+"do naszych wiedzy <unk> "
+nie zawsze
+<unk> po prostu <unk>
+Jeśli macie pytanie
+"""Co to nowy kapitał <unk> "
+Jakie jest wewnątrz
+""
+"Poproszono nas, abyśmy <unk> odpowiedź <unk>
+jako liczbę mieszaną.
+"Więc mamy dwie liczby liczby tutaj, i jak <unk>
+jako 5 dodać <unk> To są dokładnie to samo.
+<unk> zapiszę to odejmowanie z <unk>
+"Teraz jeśli <unk> to oznacza, że musimy odjąć 2"
+<unk>
+"że 5 odjąć 2, to jest cała liczba <unk>
+To jest po prostu 3.
+Zróbmy to tutaj.
+"Tak jak po prostu dodajemy ułamki, kiedy je <unk>
+<unk> ułamki, musisz mieć wspólny <unk>
+najmniejszą wspólna wielokrotność tych dwóch liczb.
+"Jeśli podzielimy rozkład na czynniki pierwsze liczby z 8, otrzymacie 2 razy 4."
+4 to 2 razy 2.
+Więc 8 to 2 razy 2 razy 2.
+Więc najmniejsza wspólna wielokrotność 8 i 5 musi mieć 5
+3 3
+"Inaczej mówiąc, to musi być 5 razy 2 razy 2"
+"razy 2, co jest równe 5 razy 8."
+"Więc najmniejsza wspólna wielokrotność <unk> ponieważ te "
+<unk> się nie ma wspólnego wspólnego niż 1, "
+<unk> wspólna wielokrotność to po prostu 8 razy 5."
+Więc najmniejsza wspólna wielokrotność to będzie 40.
+To będzie 40.
+"Aby przejść od 8 do 40, musimy pomnożyć przez 5."
+Następnie musimy zrobić to samo do licznik.
+"Jeśli pomnożyliśmy 8 razy 5, musimy pomnożyć 5 razy 5 do potęgi <unk>
+"musi to zrobić w liczniku, więc 1 razy 8 to 8."
+- będziemy mieli 40 jako mianownik.
+25 odjąć 8 daje 17.
+<unk> się <unk>
+"Więc ta część jest 3 i <unk>
+<unk> z drugiej strony była mniejsza.
+łatwiej to przejść jako ułamek niewłaściwy
+""
+Witam.
+Teraz zajmiemy się coraz nachylenia i y <unk>
+i miejsce przecięcia z osią y.
+Narysuję zadanie.
+"Po pierwsze, spójrzmy na te dwa punkty. "
+Dobrze.
+"To jest jeden, dwa, trzy. "
+Teraz narysuję linię <unk>
+To jest mój nowy <unk>
+"Myślę, że to dobry "
+Dobrze.
+"Zobaczmy, czy możemy znaleźć nachylenie prostej "
+<unk> --&gt; <unk> --&gt; <unk> <unk> "
+A teraz znamy cały równanie dla linii.
+"Więc nachylenie, jeśli widzieliście ostatnim <unk> "
+Albo delta y przez delta x.
+To jest y.
+Więc zróbmy to naprawdę szybko.
+<unk> --&gt; <unk> teraz <unk> "
+"Tak więc delta y może być - pamiętajcie, y jest "
+<unk> <unk> "
+I to jest ten wektor.
+<unk> --&gt; <unk> teraz delta x, dwa minus, "
+jest również minus trzy.
+"Cóż, pięć odjąć minus trzy, to pięć plus trzy. "
+To się równa osiem.
+A teraz dwa odjąć minus trzy.
+"Po raz kolejny to jest dwa plus plus 3, więc to równa się pięć. "
+To osiem / pięć.
+"Zobaczmy, czy to ma sens. "
+"Jeśli weźmiemy to w tym punkcie tutaj, zobaczmy, jak "
+w innym punkcie.
+Zobaczmy.
+"Mamy tutaj, a drugi punkt jest tutaj. "
+Zastanówmy się czym jest ta odległość
+Dobrze.
+Policzmy ile to ta odległość
+"Ta odległość jest delta y, która jest zmiana w y. "
+To równa się osiem.
+"I to ma sens, ponieważ jeśli myślisz o tym "
+co <unk>
+"Po prostu wziąłem y równa się 5, co było tutaj, minus "
+y równa się minus trzy.
+ta odległość tutaj.
+Więc teraz zróbmy
+<unk> od tego punktu do innych "
+<unk> --&gt; <unk> <unk> "
+<unk> ile to jest.
+"Jeden, dwa, trzy, cztery, pięć jednostek. "
+"Możemy powiedzieć, że delta x równa się pięć. "
+I to jest dokładnie to co zrobiliśmy delta y przez delta x
+"I to było to samo, co <unk> <unk> "
+Ale to jest to samo.
+"Mam nadzieję, że to <unk>
+"I mam nadzieję, że to ma sens, że jeśli <unk> "
+"Zobaczmy, co mamy tak daleko "
+równania tej linii.
+"Więc daleko wiemy, że równanie tej linii jest równe y "
+Już prawie skończyliśmy.
+Musimy obliczyć to b tutaj.
+"Teraz b, po prostu, "
+z osią OY.
+"I ponieważ ten wykres jest całkiem <unk> możemy faktycznie sprawdzić "
+"i widzimy, że wygląda jak <unk> "
+oś y.
+A więc moje dane będzie równe 2.
+Ale rozwiążmy to w przypadku tego nie <unk>
+tutaj.
+Jak możemy znaleźć b?
+Możemy podstawić wartości wartości
+dla x i y.
+podstawić je dla x i y.
+Rozwiążmy teraz pierwszy przykład.
+Dobrze.
+"Cóż, x tu jest dwa. "
+Razy dwa plus b.
+Dobra.
+"W porządku, tak naprawdę <unk> "
+"Kiedy patrzę na to na wykresie mówiłem o to, "
+<unk> dwa, więc <unk> to prawdopodobnie będzie dwa. "
+"Ale kiedy to <unk> używając algebry, kiedy <unk> "
+Więc to jest prawie dwa.
+"To jest prawie dwa, ale okazuje się, "
+że nie jest.
+Mogę to zapisać jako okresowej.
+"Więc ostatnia równanie dla prostej, spróbuję "
+"jest równe - no cóż, znamy nachylenie. "
+Teraz dodajemy przecięcie z osią y.
+Tutaj.
+<unk> to.
+Kolejny przykład.
+Nie chcę być zbyt <unk>
+Zróbmy kolejne zadanie.
+<unk> do drugiego problemu, i pozwólcie, że to "
+jeszcze raz.
+Dobra.
+<unk> o dwóch liczb <unk>
+10 minut, przy mnie.
+Rozwiążmy to na wykresie.
+"Więc x jest 2, więc to jest tutaj. "
+A minus trzy.
+"To jest jeden, dwa, trzy, cztery. "
+"Mam zamiar liczyć tak, ponieważ "
+"Ale jeśli rzeczywiście <unk> się w zależności od siebie, "
+"I to jest dwa, i to jest minus trzy. "
+Teraz narysujmy linię linia.
+Dobrze.
+Proszę bardzo.
+siecznej.
+I kolejny dobry linia.
+Dobra.
+"Po pierwsze, potrzebujemy obliczyć nachylenie. "
+Więc jego gradient jest po prostu delta z linii narzędzia
+-- delta y przez delta x.
+<unk> w y przez delta x.
+Policzmy to y jako pierwszy punkt <unk>
+"Więc mamy pięć odjąć to y, minus trzy. "
+<unk> --&gt; <unk> teraz ponieważ <unk> pięciu <unk> "
+<unk> "
+Minus 4 odjąć dwa.
+"Cóż, pięć odjąć -3, to równa się osiem. "
+"I minus 4 minus dwa, to jest równe minus 6. "
+zarówno podzielne przez dwa.
+"Cóż, jeśli przejdziemy do 4 od tego punktu. "
+Dlatego nie można go <unk>
+<unk> przez 4 tutaj, a następnie przechodzimy do prawej "
+<unk> plus trzy. "
+Mamy dalej na prostej.
+Więc to działa.
+Wygląda mi
+"Zobaczmy, czy mogę znaleźć miejsce y w 30 sekund. "
+"W każdym razie, zacznę od kolejnego <unk> "
+"I właściwie to co zrobimy to tutaj, "
+<unk> i możesz próbować to zrobić na swoje <unk>
+<unk> w następnej prezentacji.
+""
+<unk> --&gt; <unk> <unk> wartość bezwzględna z 3x minus 9 równa się"
+Więc przepiszmy to równanie.
+9 równa się 0.
+w tym przypadku coś jest 3x minus 9
+równa się 0.
+"Jeżeli powiedziałem wam, że wartość bezwzględna z czegoś jest "
+"jest równe 0, twierdzę, że coś musi być"
+"dokładnie 0 jednostek od 0, lub 0 od <unk>
+"Więc jedyną rzeczą, która może być 0. "
+"To jest jedyne wartość, którego wartość bezwzględna to 0. "
+"Więc jeśli powiedziałem wam, że wartość bezwzględna z 3x minus 9 "
+"jest 0, niż wiemy, że 3x minus 9 musi być równe 0,"
+"i to jest jedyny z 0 to to, że jest"
+wartość bezwzględna z 0.
+"Jeśli powiemy, że 1 tutaj, to można powiedzieć, że"
+może być 1 lub minus 1.
+"Ale tutaj, jeśli mamy 0, to może być równe 0."
+Równanie to równanie jest dość proste.
+"po lewej stronie, dodajemy 9 do obu stron równania."
+To jest cała rzecz
+Po lewej stronie zostaje po prostu 3x i
+<unk> strona, po lewej stronie zostaje nam 9."
+"Teraz chcemy znaleźć x, więc mamy 3 razy x"
+"Dzielimy przez 3, ponieważ 3 razy x podzielone przez 3 to po prostu"
+Ale jeśli podzielimy lewą stronę przez 3 musimy podzielić
+przez 3.
+Tak więc mamy - te dwa się skracają
+"x równa się 9 przez 3, co daje 3."
+I to jest nasz rozwiązanie.
+"Powiedzmy, że to właściwie działa. "
+Podstawmy go do naszego naszego równania.
+Więc mamy wartość bezwzględną z 3 razy x.
+3 razy 3 odjąć 9 musi być równe 0.
+Czemu to będzie równe?
+3 razy 3 to 9.
+"Więc to jest wartość bezwzględna z 9 minus 9, co jest"
+""
+"Teraz użyjemy własności <unk>
+"powiedzmy, że mamy razy b i podnoszę to do jakiejś potęgi n "
+"I aby uświadomić sobie, dlaczego to się stanie, spróbujmy je <unk>
+Mnożymy to wyrażenie i mnożenie 3 razy.
+możemy to zapisać jako a razy a razy b razy b razy b.
+Mamy trzy razy tutaj i trzy b.
+i to tutaj będzie równe trzeciej.
+"Mam nadzieję, że to daje nam wyobrażenie dlaczego ta właściwość <unk>
+Teraz zastosujmy ją do potęgi problem!
+"To oznacza, że każda z liczb w iloczyn liczb <unk> "
+do potęgi trzeciej to znaczy że mamy 4 do potęgi trzeciej razy
+a kwadrat razy b do trzeciej razy b do potęgi trzeciej
+<unk>
+<unk> to w pewnym sensie <unk>
+do potęgi trzeciej
+"i potem wyjąć do tego <unk> "
+Spróbujmy to uprościć
+Więc 4 do trzeciej to po prostu 4 razy 4 to 64.
+"albo „a” do potęgi <unk>
+Mamy sześć od 2 razy 3 i potem <unk>
+mamy b do potęgi trzeciej i <unk> to tutaj
+""
+<unk> Google <unk> <unk>
+"Dla wszystkich typów <unk> czy <unk> "
+z <unk> <unk> <unk>
+""
+Więc odejmujemy jedno wyrażenie z innych.
+"I tak jak na wypadek gdybyście <unk> <unk>
+"Zobaczmy, czy możemy to zrobić."
+mamy znak ujemne tutaj i wspólny mianownik tutaj.
+Mamy 7 tutaj i 3 tutaj.
+To jest równe 21.
+wtedy będziemy mieli również podzielne przez m
+<unk> się przez <unk>
+"Jeśli jesteśmy podzielne przez <unk> jesteśmy podzielne przez n, "
+To jest nasz wspólny mianownik.
+<unk> razy <unk> jest <unk>
+<unk> się od <unk>
+<unk> się od tego do tego"
+musisz pomnożyć przez 7
+<unk> z „m” do potęgi (3 · <unk> "
+<unk> z <unk> do <unk> nie musimy pomnożyć przez cokolwiek"
+Więc to wyrażenie w mianowniku
+i teraz jesteśmy gotowi, żeby odjąć
+ponieważ mamy ten sam mianownik.
+<unk> do <unk>
+<unk> to działa
+"Teraz sprawdźmy, czy możemy to uprościć, "
+"to staje się 1, to staje się <unk>
+zarówno licznik i mianownik są podzielne przez <unk>
+"więc dzielimy licznik przez <unk>
+<unk> mianownik przez <unk> to staje się <unk>
+I skończyliśmy.
+""
+i <unk> liczby <unk>
+Ile jest liczbą pierwszą.
+"Po pierwsze, zastanówmy się co nam się stanie, "
+która jest nieskończenie wysokie.
+<unk> mniej <unk> <unk>
+jeśli zawsze znajdziemy je
+"To jest dokładnie to, co się stanie, "
+kiedy patrzymy na większy i większych liczb.
+Zawsze znajdziemy więcej liczb pierwszych <unk>
+że liczba liczb pierwszych liczby liczby
+<unk> <unk> z <unk> <unk>
+Więc zastanówmy się do naszego pytania.
+"to widzimy, że liczba liczb pierwszych liczb pierwszych "
+"Kiedy będziemy <unk> "
+znajdziemy mniej i <unk>
+Narysujmy liczbę liczb pierwszych
+<unk> na osi pionowej "
+i koszty <unk>
+<unk> --&gt; <unk> --&gt; <unk> --&gt; <unk> krzywej <unk> "
+mniejsze od jakiejś liczby x.
+liczba pierwszych liczby liczby <unk>
+"Dla pierwszego 100 liczb <unk> mamy 25 pierwszych <unk> "
+<unk> 25% są liczbą pierwszą. "
+"Jak będziemy <unk> tę gęstość <unk> <unk> "
+jeśli prędkość prędkości w którym będzie się <unk>
+i rozkład na <unk> <unk>
+<unk> znaleźliśmy ten wzór, "
+i nawet wewnątrz naszego ciała <unk>
+<unk> <unk> <unk> <unk>
+zostaje dalej od środka.
+widzimy one związane z
+jako y równa się logarytm z x równa się <unk>
+gęstość pierwszych pierwszych liczby <unk>
+kiedy liczymy gęstości <unk>
+A w czerwone jest na wykresie liczbie <unk>
+do x.
+To jest znana
+"Powiedzmy, że potrzebujesz znać gęstości liczb pierwszych "
+"I jak zwiększamy większy i większych liczb, "
+przy różnicy dążącym do zera.
+"Zauważmy, że możemy użyć "
+ten wzór na gęstości
+aby oszacować liczbę liczb pierwszych
+Liczba liczby liczby jest <unk>
+które możemy uprościć
+To jest liczba liczbą pierwszą.
+i <unk> na żółto
+<unk> liczyć <unk>
+I to jest to.
+Mamy ten wzór, który mówi nam
+ile liczba liczby są liczbą pierwszą.
+"Na przykład, powiedzmy, że musimy wiedzieć, "
+100 biliony podzielić przez
+nawet w tym małym skali.
+"Dla pewnej liczby x, "
+To jest liczba liczbą pierwszą.
+""
+<unk> <unk> <unk> "
+I będziesz w stanie nauczyć się w swoim <unk>
+<unk> <unk> "
+poprzez <unk>
+"prawdopodobnie w stanie zadawać pytania, "
+zarówno od <unk> i terapeuci <unk>
+i będziesz w stanie pomóc je w zamian.
+lub <unk> <unk> <unk>
+""
+co jest <unk> w przykładach.
+""
+"Narysuję powód dla którego <unk>
+<unk> Pierwszy jest taki, że ta cała cała cała <unk> "
+<unk> przychodów. To o <unk> "
+<unk>
+"Albo może ja to <unk> teraz, teraz nauczyłem się "
+<unk> na temat produktu <unk> "
+"A potem w pewnym sensie <unk> <unk> "
+"jest mniejsze niż mój <unk> "
+<unk> Jeśli są <unk> najlepszy sposób, "
+"nie <unk> żadnego więcej niż <unk> "
+<unk> I zobaczymy
+w inny sposób <unk>
+"i to zależy od Twojego <unk>
+będzie miał niesamowite
+i <unk>
+""
+<unk> młody młodego mężczyzny matematyki "
+zarówno w USA i wokół świata.
+Sal: więc ile to jest x kwadrat + 4x + 4?
+uczyć matematyki na <unk>
+Sal: Witamy na prezentacji na temat prezentacji na temat <unk>
+I są darmowe.
+To jest jedna z bardziej popularny filmów.
+Nie idzie na <unk>
+Sal: to coś takiego jak głos w pamięci.
+Patrzymy na to.
+którzy <unk> z <unk> <unk>
+<unk> to lepiej.
+i był bardzo gotów pomóc nam
+""
+Albo przynajmniej z odchylenia punktu widzenia
+<unk> na tym samym <unk> <unk>
+<unk> <unk>
+<unk> <unk> <unk>
+bakterii jak to się <unk>
+Nie będę musiał tego <unk>
+<unk> <unk> <unk> na <unk> w tych <unk>
+Ale po prostu ten punkt
+"Dla każdej osoby człowiek na człowieka <unk>
+to wszystkie komórki mają DNA
+<unk> 20 <unk>
+ale te bakterie muszą być znacznie mniejsze niż człowieka
+mimo że są głównie bakterie w pamięci.
+<unk> o 150 <unk>
+"Tak więc zawsze <unk> sobie "
+<unk> i <unk> <unk>
+Więc dla każdego z tych mamy 20 <unk>
+<unk> o <unk>
+"200 do <unk> biliony bakterie na nas <unk>
+Nie tak jak możecie wyeliminować je
+<unk> że bakterie są istotne. "
+i są one różne od komórek
+To jest jądro tutaj.
+Wszystkie naszych <unk> się w formie <unk>
+<unk> patrzymy na <unk> <unk>
+i mają <unk> <unk> jak <unk>
+Będziemy rozmawiać więcej o tym w przyszłości.
+Mają ich DNA.
+To muszą być formą bakterii.
+"Ale teraz, że w stanie spojrzeć na DNA "
+że nasze komórki
+<unk> <unk>
+Tak więc nie masz dużo atomów
+ale wciąż w stanie powstrzymać <unk>
+<unk> <unk>
+i bakterie jest jednym przykład.
+"ale ten bakterie ma jakiś rodzaj <unk>
+<unk> <unk> to jest sposób w jaki sposób wszystko może być <unk>
+Ale dwa bakterie mogą być blisko siebie
+co dzieje się w jednym z bakterii
+"i <unk> go w stanie robić rzeczy, które nie <unk> "
+"I co się dzieje z <unk> <unk>
+<unk> gdzie bakterie jest <unk>
+<unk> <unk> DNA
+Tak więc to jest rodzaj formą księgowania,
+"Więc jeśli ktoś jest <unk> <unk>
+<unk> bakterie od <unk>
+"Bardzo <unk> <unk> jest <unk>
+Tutaj jest mały okrąg.
+"Załóżmy, że <unk>
+i bakterie nie mogą być <unk>
+to nie jest <unk> bakterii do tego typu
+To było w końcu <unk>
+"Chociaż nie chcesz zabić wszystkich <unk>
+ponieważ niektóre z nich jest dobrze.
+<unk> <unk>
+"ale naprawdę <unk> <unk>
+"Ale jeśli myślisz o <unk> <unk>
+"Jest wiele <unk> <unk>
+"to może spowodować wpływ na osoby, który ma <unk>
+więc wpływa na każdą część kim jesteśmy.
+""
+i to jest gdzie rynek
+""
+"W tym filmie chcę rozmawiać o tym, co jest łatwo "
+może w całej <unk>
+"I jeśli ma to dobry wariancję, to ma <unk>
+odchylenia standardowego <unk>
+"Wyobraźmy sobie, że dla <unk> tego filmu. "
+funkcja.
+"powiedzmy, że jest to prawdopodobieństwo uzyskania 3 lub 4. "
+"I powiedzmy, że jest to bardzo prawdopodobne, żeby mieć 6 tak. "
+To jest moje rozkład rozkład <unk>
+to daleko od średniej.
+Ale to jest moje reprezentacja
+funkcja.
+"Teraz, co zamierzam zrobić, zamiast tylko <unk>
+"z tych zmiennej zmiennej losowej jest <unk> przez <unk>
+<unk> i mogę wstawić dowolną liczbę tutaj, ale"
+"Powiedzmy, że pierwszy raz wezmę 4 <unk>
+Więc moje próbki jest równy 4.
+"Ale kiedy mówimy o średniej próbki, i "
+"I wariancja rozmiaru mówi wam jak już <unk> "
+Mamy rozmiar rozmiaru 4.
+1 dodać 1 to 2.
+2 dodać 3 jest 5.
+5 dodać 6 równa się 11.
+To jest moje pierwsze średnia z rozmiaru <unk>
+"Moja druga próbki rozmiaru 4. "
+i powiedzmy 1.
+Po prostu nie co się <unk>
+"Zauważcie, że nie mogę dostać 2 lub 5. "
+Prawdopodobieństwo uzyskania 2 lub 5 równa się 0.
+Nie mogę mieć żadnych <unk> ani <unk>
+więc moja druga średnia z średniej to 3 dodać 4 równa się 7.
+7 dodać 3 równa się 11.
+"Zróbmy jeszcze jeden dlatego, że chcę to wyjaśnić, "
+co robimy tutaj.
+ale zrobię jeszcze jeden z <unk>
+<unk> 4 <unk>
+2 dodać 6 równa się 8.
+8 dodać 6 równa się 14.
+I jak mam każdą z tych próby - więc dla każdego z
+<unk> rozmiaru 4 rozmiaru 4 <unk>
+dostaję każdą z każdej z próby.
+Tak więc wstawię tutaj mały wykresie.
+To jest od tego tutaj.
+To jest 2.75
+Tak więc wstawię częstotliwości.
+"Wszystkie możliwe wartości, mogę mieć 3, mogę mieć "
+A więc mamy 3.5 do potęgi <unk>
+Może <unk> 10 000 000
+"Wiesz, 2.75 może być tutaj."
+Więc ta pierwsza kropka będzie równy temu
+"to będzie tutaj, a druga druga będzie równy "
+a potem to w 3.5 będzie wyglądał tutaj.
+"Ale zrobię to na 10 000 razy <unk>
+<unk>
+"Więc w czasie będę mieć coś <unk> "
+<unk> to jest dla n równego 4."
+<unk> średnią z próby
+to wygląda tak.
+"W następnych filmach zobaczymy, że "
+"będzie <unk> cóż, pozwólcie, że narysuję to <unk>
+muszą mieć to samo.
+Będzie to mniejsze odchylenia standardowego z
+Jeden mamy 1 i drugi przykład kolejny <unk>
+"albo możesz nawet powiedzieć, że to dąży do nieskończoności, ale"
+"nie muszą wchodzić w ten sposób, żeby dotrzeć do nieskończoności "
+"Nawet jeśli masz rozmiar rozmiaru 10 lub 20 <unk>
+"Ale jeśli mamy próbki <unk> to było n równe 4, ale jeśli mamy "
+<unk> się w tym czasie, <unk>
+"szczególnie jeśli mamy nieskończoną wariancję z <unk> "
+To jest to <unk>
+I nie odnosi się do średniej średniej z próby.
+dla każdego z tych rzeczy.
+<unk> kilka takich innych <unk>
+"to mamy to samo, co <unk> <unk>
+<unk> to oznacza, że mamy <unk>
+"I to tak, dlaczego normalnego dystrybucji pojawia się "
+<unk> dla <unk> albo oznacza to "
+<unk>
+<unk> a jako <unk>
+""
+Czy może być <unk> <unk> <unk> <unk>
+""
+<unk> tych stron Alicji
+<unk> załóżmy, że dla każdego prostokąta, "
+wtedy Alicja może być <unk>
+<unk> pomiędzy Alicji <unk>
+<unk> sposób, jaki Alicji jest <unk> tego transakcję
+<unk> te liczby <unk> go do zrobienia czegoś innego z liczbami <unk>
+<unk> może <unk> coś na swoim <unk>
+<unk>
+wszystkie muszą martwić się o <unk> w systemie
+<unk> w ten sposób, są ludzie używając inflacji.
+że transakcję jest dla drugiej strony.
+"to również oznacza, że nikt nie może być "
+<unk> <unk> aktywa, dla tego <unk>
+nikt nie może przyjmować transakcję
+Niektórzy <unk> może nie być w stanie <unk>
+"Po pierwsze, kiedy myślisz o tym, <unk> <unk> jak <unk>
+<unk> ściśle ważne w kontekście tradycyjnej <unk>
+przez inne węzłów w systemie Bitcoin
+"to pomoże Ci zrozumieć, że te różne części"
+""
+Następnie zwróci zwróci do naszego oryginalnego
+"Niezależnie od tego, gdzie <unk> <unk> "
+<unk> się w przeciwnym kierunku.
+dopóki narzędzia zmieniają ramię ramię od wrzeciona
+<unk> ramię do drugiego narzędzia może być usunięte usunięty
+<unk> naciśnij Y kilka razy, aby utworzyć proces "
+""
+"To, co chcę porozmawiać w tym filmie, "
+"zależnie od punktu widzenia "
+"i szczerze mówiąc, powinniście być <unk> cokolwiek mówi Ci "
+<unk> Was to jako <unk> "
+<unk> to <unk> "
+W środku Zimnej Wojny.
+"W tym przypadku nie <unk> się <unk> i <unk> procedury w <unk> "
+I liczba problemem był to ten koleś tutaj.
+Liczba zadanie był ten koleś tutaj.
+<unk> <unk> <unk> jest tylko <unk> <unk>
+<unk> --&gt; <unk> teraz <unk> "
+Nawet jeśli tam są inne elementy w <unk>
+A więc mamy kontakt z niego i <unk>
+"W tym okresie istnieje niektórzy ludzie mówią "
+Wygląda jak w pewnym sensie <unk>
+"To jest interesujące ponieważ to wygląda jak <unk>
+"I to jest zawsze, istnieje kilka różnych <unk> "
+jak dużo <unk>
+"I ludzie którzy nie myślą, że dużo Stanów Zjednoczonych. "
+<unk> się w ten sposób, żeby być inne <unk>
+<unk> na temat rynku <unk> <unk>
+"Nie potrzebujemy ludzi, żeby zrobić takie samo jak <unk>
+<unk> jak <unk> <unk>
+"Ale <unk> dużo ludzi. "
+<unk> ludzi, no wiecie, <unk> "
+"Druga strona równania będzie to dobrze, cóż, spójrz oczywiście "
+"Teraz mamy Zjednoczone <unk> wszystko w tej potęgi, "
+"to jest największa największa gospodarka w świecie, "
+i to wszystko.
+""
+<unk> <unk> "
+""
+całą cechą produktu
+od początku na końcu.
+"To ma sens, kiedy jesteś w dużej firmie "
+<unk> się z klientami w ciągu roku <unk> "
+"Ale w startup naprawdę <unk> "
+więc nie <unk> dużej ilości czasu i pieniędzy
+"i <unk> sporo inżynierii czasu, "
+<unk> ponieważ to jest to, co <unk> się <unk> "
+którzy ostatecznie <unk> ten produktu.
+"I w ten sposób, MVP może być coś takiego jak proste na technologii "
+"nie <unk> z budynku w <unk> i to jest po prostu <unk> "
+"Ale zrozumieli, że w nowych rynku "
+i zadam ludziom jakie są funkcje <unk>
+Ale chcesz zrozumieć jak ich dzień
+""
+<unk> <unk>
+ten sam wynik.
+"Więc jeden, możemy po prostu "
+spróbujemy obliczyć
+"to <unk> "
+<unk> z tego używając
+<unk> i właściwości właściwości dodawania.
+więc to da nam nam
+Teraz dodajemy <unk> to dokładnie to samo
+<unk> <unk>
+więc to będzie równe -
+i 20 minus 7 daje 13.
+Więc to jest nasz pierwszy sposób
+i <unk> do nawiasów.
+<unk> właściwość mówi nam, że kolejność nie <unk>
+To jest jak <unk>
+Zróbmy to właściwie
+możemy zrobić wszystkie możliwe rzeczy.
+"Możemy to zrobić, "
+to po prostu zmiana tego równania
+"Możemy kontynuować nawias, tak jak "
+i teraz możemy je <unk>
+"Więc zamiast postawić nawiasy. "
+możemy postawić ten nawias.
+Zapiszę to.
+Więc prawo właściwości dodawania
+<unk> właściwości
+które możesz poruszać się z tymi <unk>
+Policzmy to.
+Tutaj mamy zamiar używać obu <unk> i prawa właściwość
+To jest dokładnie to samo co
+"to co mógłbym zrobić, to wziąć różnicę pomiędzy 2, "
+"a ponieważ liczba liczba jest dodatnie, "
+Mam większą liczbę.
+Więc ta część tutaj
+staje się 10. I nadal mamy plus trzy
+i to znowu będzie
+równa się 13. I możemy je <unk>
+<unk> <unk>
+i nie ma znaczenia.
+""
+w matematyce i w <unk>
+"Ale dlatego, że jest to tak wiele rzeczy, "
+później porozmawiamy trochę o intuicji.
+"Powiedzmy, że mamy losową zmienną X. "
+"I wiemy, że jego oczekiwana wartość populacji. "
+<unk> dużej liczby, po prostu mówi, że "
+"Jeśli weźmiemy próbkę z n losowych zmiennej losowej "
+To jest średnia n <unk>
+nasze losowe <unk>
+<unk> ten <unk> i ja je <unk> "
+To jest moja średnia z próby.
+<unk> dużej liczby, po prostu mówi nam, że moje średnia "
+<unk> wartość oczekiwana zmiennej zmiennej losowej
+Albo mogę to zapisać jako średnia z próby
+średnią populacji.
+"Ale myślę, że rozumiesz to intuicyjne <unk>
+"że jeśli wezmę duży ilość próbki tutaj, "
+uzyskania oczekiwana populacji.
+"I myślę, że wiele z nas to jest intuicyjne. "
+"Jeżeli mam wystarczająco dużo <unk> "
+jak to się dzieje.
+konkretny przykład.
+<unk> dużej liczby po prostu mówi nam - powiedzmy
+Mam losowe <unk> X jest równy liczbie reszek
+po 100 rzutów uczciwą monetą.
+uczciwą monetą.
+"Po pierwsze, wiemy jaka jest wartość oczekiwana "
+to zmienna losowa
+"To jest liczba <unk> liczba razy "
+prawdopodobieństwo sukcesu <unk>
+Więc to jest równe 50.
+"Więc łączności dużej liczby, po prostu mówi, że jeśli <unk> "
+"więc wiecie, <unk> moje pierwszy czas, "
+To <unk>
+I to jest n razy a potem podzielę je przez
+liczba razy <unk>
+<unk> dużej liczby mówi nam, że średnia "
+średniej wszystkich moich <unk>
+"I chcę opowiedzieć trochę o tym, dlaczego to się dzieje "
+<unk> dlaczego to jest. "
+"Wiele osób <unk> to oznacza, że "
+<unk>
+I użyję tego przykładu.
+"Powiedzmy, że narysuję wykres. "
+I zmienię kolor.
+"To jest n, moja oś x jest N. "
+"I moja oś Y, pozwólcie, że to średnia z próby. "
+wartość oczekiwana zmiennej losowej jest 50.
+Narysuję to tutaj.
+To jest 50.
+"Więc kiedy n jest równe - pozwólcie, że <unk>
+tutaj.
+"Więc moje pierwszy <unk> mam 55 i więc to była moja średnia "
+Ja mam tylko jeden punkt
+czyli 60.
+trochę.
+To nie będzie 45 tutaj.
+"Pozwólcie, że zrobię liczbę. "
+więc <unk>
+Więc <unk> plus 65.
+Podzielone przez 3.
+"Nie, nie, nie. "
+<unk>
+Więc średnia przechodzi w górę w dół
+I możemy robić te dodatnie
+"Więc możecie powiedzieć, że łączności dużych liczb mówi, "
+"Ok, po prostu mamy 3 razy 3, a nasza średnia jest tutaj. "
+w przyszłości.
+"To w pewien sposób obok kilku <unk>
+<unk> się, że <unk> są zawsze takie same."
+<unk> są zawsze 50%
+Mam zamiar uzyskać reszkę.
+<unk> liczbę reszek w pewnym momencie "
+<unk> że masz wyższe szansa, "
+<unk> liczba reszek.
+I to nie jest prawda.
+"Powiedzmy, że po pewnym sensie liczba prób "
+"Twoje średnia <unk> jest niski prawdopodobieństwo, "
+"ale powiedzmy, że średnia jest w tym miejscu. "
+Czy w 70.
+"Ale jaka jest prawo dużej liczby, mówi, "
+Nie interesuje mnie ile prób
+"I wartość oczekiwana dla tej liczby liczby <unk> "
+zwłaszcza w tej sytuacji będzie to ten rodzaj sytuacja
+<unk> do tego <unk> "
+ale to jest prawo lub duże liczby mówi ci
+I jest to ważna rzecz.
+"Nie mówi nam, że jeśli masz kilka reszek "
+prawdopodobieństwo uzyskania reszki
+"Co mówi nam, że nie ma znaczenia. "
+nieskończenie wiele protonów
+ponieważ jeśli macie wystarczająco dużo próbek
+i możemy obliczyć
+<unk> się wystarczająco dużo pieniędzy i "
+kilka osób może <unk> <unk>
+<unk>
+"W każdym razie, to jest ważne rzecz w prawdopodobieństwa "
+"Myślę, że to jest dość intuicyjne. "
+średnia z tego średniej
+<unk> nam prawdziwe średnią, "
+Średnia średniej z próby
+jest prawdziwe średnia populacji
+wartość oczekiwana zmiennej zmiennej losowej
+"W każdym razie, w następnym filmie, "
+""
+Więc co się stało?
+"w innych filmach, że "
+"Na przykład w liczniku, "
+więc to jest <unk>
+"w liczniku, a w mianowniku "
+i zdecydowanie szybciej
+te dwie rzeczy będą <unk>
+"do siebie, "
+"Możemy powiedzieć, że ta granica będzie "
+to samo co ta granica
+co będzie równe
+to będzie po prostu 3.
+tego <unk>
+Teraz zróbmy to samo z tej funkcji
+<unk> nieskończoność, "
+Które wyrażenie jako wartość bezwzględna
+gdy x zbliża się w długość.
+więc to będzie to samo co
+"I jeśli to uprościć, to będzie równe "
+z 1 przez 2x.
+A co to będzie?
+staje się jeden
+<unk> bardzo, bardzo dużych ujemną, "
+<unk> nam się <unk> "
+"Więc to tutaj, "
+"jest równe 0, "
+"i zachęcam Cię do <unk> "
+lub <unk> z liczbami <unk>
+<unk> <unk> tutaj jest
+które wyrazów się
+Teraz pomyślmy o tym.
+"Jeszcze raz, jakie są wersje <unk> "
+to są najwyższą stopień <unk>
+To będzie to samo co
+jako granica przy x dążącym do nieskończoności
+co będzie to samo co
+<unk>
+to będzie to samo co -
+Będzie to granicę z 4 ponad 250
+- <unk> podzielone przez <unk> to po prostu x -
+Co to jest?
+<unk> się w nieskończoność, "
+więc to będzie po prostu -
+to będzie po prostu po prostu
+<unk> że od początku "
+"ma 4 stopnia składnika, "
+gdy największym stopień <unk>
+to tylko trzeci przykład.
+Licznik będzie <unk>
+znacznie szybciej niż mianownik.
+Więc jeśli licznik rośnie znacznie szybciej
+"niż <unk> "
+Jeśli licznik rośnie znacznie wolniej
+"niż mianownik, "
+jeśli mianownik rośnie szybciej
+zbliżamy się do zera.
+"Mam nadzieję, że znajdziecie to trochę przydatne. "
+""
+jeżeli chcemy uprościć to
+wszystkie te wyrazy są podzielne przez 8.
+ale wygląda tak.
+<unk> 8 mieści się w 14 jednego czasu, 1 razy 8 to 8 "
+sprowadzić <unk> 8 mieści się w 64 8 razy.
+dostaniesz 8 tego i to wyrażenie
+"Teraz musimy rozłożyć to w ten sposób, "
+"i pamiętajmy, że jeśli cokolwiek ma formę "
+po pierwsze, mamy tutaj
+"aby znaleźć dwie liczby, których suma jest równe "
+"do minus 3, a którego iloczyn jest równy "
+<unk> wyraz, a którego produkt jest "
+równa się minus 18.
+może zrobić coś ciekawego.
+ponieważ jest to ujemne jeden z liczb
+musi być dodatnie.
+"1 i 18 równa się dodatnia, a jedna z tych "
+"może być dodatnie i jeden może być ujemna, "
+"ale nie ważne co, mamy "
+"i to jest dodatnia, oni <unk> ale "
+ujemnej lub dodatnie 18
+muszą być różne znaki.
+Potem mamy dodatnie lub minus 3
+<unk> więc jeśli mamy dodatnie 3 i "
+"jest to, co potrzebujemy ich <unk> "
+<unk> dodatnie 3 i minus 6 ich produkt
+dodatnie 3 i minus 6 jako dwie liczby.
+Na ten przykład dla wzgląd na potrzeby tego
+możemy to zrobić jako środkowy wyrażenie tutaj
+Mamy minus 18. A potem to wszystko
+<unk> przez 8. Teraz jesteśmy gotowi, do <unk>
+"podzielne przez zewnątrz, a potem możemy połączyć te dwa "
+- to są po prostu <unk>
+<unk> k od tego składnika tutaj
+<unk> wyłączmy K tutaj. Więc to jest K
+"to wygląda tak, że możemy wyciągnąć minus 6. "
+<unk> na czynniki minus 6 w tym miejscu.
+minus 6. Tak więc mamy to 8
+"plus minus 6, mogę po prostu napisać K minus <unk> "
+"można przepisać to <unk> w jaki to napisałem tutaj "
+ale wiemy z własności mnożenia.
+""
+<unk> to wyrażenie 5 razy 9 minus 4 - to jest w <unk>
+używając własności rozdzielności.
+mnożenie przez odejmowanie.
+Następnie uprościć.
+Przepiszę to.
+"To będzie 5 razy 9 minus 4, po prostu. "
+"Teraz, jeśli chcemy skorzystać z rozdzielności.
+Możesz obliczyć 9 minus 4
+pomnożone przez 5.
+5 razy 9 odjąć 5 razy 4.
+<unk> dlaczego nie po prostu pomnożysz to przez 9."
+"I widzimy, że to daje nam ten sam odpowiedź jako "
+Mamy 45 razy 45 - ile to jest 5 razy 4?
+"Cóż, to jest 20."
+rozdzielności mnożenia z tutaj.
+"Jeśli nie chcemy używać rozdzielności, jeśli"
+9 odjąć 4 to 5.
+Zrobię to innym kolorem.
+5 razy 9 odjąć 4.
+Więc to jest 5 razy 5.
+"5 razy 5 to po prostu 25, więc otrzymujemy to samo."
+odpowiedź w ten sposób.
+To jest korzystając z <unk> łączności mnożenia przez
+rozdzielności.
+To jest szacujemy wewnątrz nawiasów w nawiasie
+""
+"jak wiemy, że ten kąt i ten kąt są takie same, albo "
+"wtedy jeśli spojrzysz na to w ten sposób, jeśli weźmiemy to w tym punkcie, to jest już <unk> "
+"a więc dużo tego trygonometrii nie <unk> ponieważ nie będziemy mogli zakładać, że to jest "
+<unk> to co chcesz zrobić to wybiorę dwie różne punktów, 6 <unk> "
+<unk> więc jeśli to jest odległość od Słońca do tej drugiej gwiazdy tutaj, chcesz wybrać "
+<unk> w <unk> orbity wokół Słońca a następnie kolejny punkt w ciągu 6 miesięcy później, "
+"i jeśli to zrobić, a jeśli zrobisz to w tym miejscu. "
+w każdej z tych czasu.
+"to będzie <unk> porusza się w jednym kierunku, a potem kiedy przejdziemy do tego 6 miesięcy później, "
+będzie ona <unk> w innym kierunku.
+<unk> inne punkty w czasie roku, 6 miesięcy siebie, gdzie jest trójkąt <unk> "
+"Mam nadzieję, że znajdziecie to pomocne. "
+""
+""
+<unk> już <unk>
+Zobaczmy.
+"Zobaczmy, pozwólcie, że zrobię to innym kolor."
+""
+"Ok, więc zrobię to tutaj. "
+""
+"to jest x, długość wynosi dwa razy to, to jest 2x."
+<unk>
+<unk> a potem"
+"Ok, zróbmy kilka rzeczy."
+a potem możemy znaleźć równanie jako koszt
+"z x, a potem bierzemy pochodną i"
+Co wiemy o tym co wiemy
+Jaka jest objętość tej pudełka?
+<unk> razy szerokość razy wysokość. "
+"To jest 2x razy x, 2x kwadrat razy <unk>
+"To jest 2x kwadrat razy h, prawda?"
+<unk> razy wysokość razy wysokość.
+""
